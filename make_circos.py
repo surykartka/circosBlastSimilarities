@@ -1,10 +1,14 @@
 from Bio import SeqIO
 import os, pyBigWig
 
+conf_file = 'data/circos.conf'
+
 window = 200
 step_size = 200
 genome_fasta = 'blast/U18466.2.fa'
+#genome_fasta = 'blast/FR682468.1.fa'
 blast_output = 'blast/output1'
+#blast_output = 'blast/output2'
 
 circos_path = '/Users/dor/apps/circos-0.69-9'
 
@@ -22,7 +26,8 @@ def blast():
 	for rec in SeqIO.parse(open(genome_fasta), 'fasta'):
 		seq = str(rec.seq)
 
-	cmd = 'makeblastdb -dbtype nucl -in %s -out %s' % (genome_fasta, genome_fasta.split('.fa')[0])
+	genome_db = genome_fasta.split('.fa')[0]
+	cmd = 'makeblastdb -dbtype nucl -in %s -out %s' % (genome_fasta, genome_db)
 	os.system(cmd)
 
 	os.system('rm '+blast_output)
@@ -37,7 +42,7 @@ def blast():
 		query = seq[i : end]
 		with open('query', 'w') as f:
 			print('>seq_%d-%d'%(i,end), query, sep='\n', file=f)
-		cmd = 'blastn -word_size 4 -outfmt 6 -query query -strand both -db U18466.2 -out o -evalue 0.001'
+		cmd = 'blastn -word_size 4 -outfmt 6 -query query -strand both -db %s -out o -evalue 0.001' % genome_db
 		os.system(cmd)
 		os.system('cat o >> '+blast_output)
 		output += open('o').readlines()
@@ -92,8 +97,7 @@ def make_circos(table):
 	with open(karyo_file, 'w') as f:
 		print('chr - ASFV %s 0 %d vlgrey' % (chr_name, genome_length), file=f)
 
-	## make circos.conf
-	conf_file = 'data/circos.conf'
+
 
 	## make links file
 	links_file = 'data/links.txt'
@@ -138,6 +142,7 @@ def make_circos(table):
 
 
 if __name__ == '__main__':
+	#blast()
 	table = get_table()
 	make_circos(table)
 
