@@ -97,8 +97,6 @@ def make_circos(table):
 	with open(karyo_file, 'w') as f:
 		print('chr - ASFV %s 0 %d vlgrey' % (chr_name, genome_length), file=f)
 
-
-
 	## make links file
 	links_file = 'data/links.txt'
 	evalue_levels = [1e-50, 1e-10]
@@ -139,15 +137,8 @@ def make_circos(table):
 	cmd = '%s/bin/circos -conf %s' % (circos_path, conf_file)
 	os.system(cmd)
 
-
-
 if __name__ == '__main__':
 	#blast()
 	table = get_table()
 	make_circos(table)
-
-
-
-
-
 
