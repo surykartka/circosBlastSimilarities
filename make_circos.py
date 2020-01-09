@@ -73,9 +73,17 @@ def get_table(min_hit_length=100, max_evalue=0.00001):
 			hit_start, hit_end = hit_end, hit_start
 		if overlap(start, end, hit_start, hit_end):
 			continue
-		if hit_start < start or hit_end < end:
-			continue
-		table.append(((start, end), (hit_start, hit_end), orientation, evalue))
+		### current version
+		for ((start1, end1), (hit_start1, hit_end1), _, _) in table:
+			if overlap(start, end, hit_start1, hit_end1) > 10 and overlap(start1, end1, hit_start, hit_end) > 10:
+				break
+		else:
+			table.append(((start, end), (hit_start, hit_end), orientation, evalue))
+
+		### previous version
+		#if hit_start < start or hit_end < end:
+		#	continue
+		#table.append(((start, end), (hit_start, hit_end), orientation, evalue))
 	return table
 
 def write_data(bigwig, data_file, window=100):
