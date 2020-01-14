@@ -1,6 +1,6 @@
 # circosBlastSimilarities
 
-A simple script to draw a [circos](http://www.circos.ca/) plot with blast similarities between genomic segments.
+A simple script to draw a [circos](http://www.circos.ca/) plot with blast similarities between genomic segments (potential segmental duplications) within a chromosome.
 
 Other plots, like RNA-seq coverage, can be added.
 
