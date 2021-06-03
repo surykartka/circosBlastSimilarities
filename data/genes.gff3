@@ -1,0 +1,163 @@
+U18466.2	1	37	id-U18466.2:1..37	1000	+	1	37	214,39,40	single-stranded hairpin loop
+U18466.2	38	2171	id-U18466.2:38..2171	1000	+	38	2171	255,127,14	terminal inverted repeat
+U18466.2	1744	2004	KP86R	1000	+	1744	2004	31,119,180	putative transmembrane protein; contains central transmembrane region; contains tandem repeats; cysteine-rich; identical to DP86L
+U18466.2	1871	2152	KP93L	1000	-	1871	2152	31,119,180	putative transmembrane protein; contains central transmembrane region; contains tandem repeats; proline-rich; identical to DP93R
+U18466.2	2204	3286	KP360L	1000	-	2204	3286	31,119,180	member of multigene family 360; contains helix-turn-helix motif; gene expression: early
+U18466.2	3370	4458	KP362L	1000	-	3370	4458	31,119,180	member of multigene family 360; gene expression: early
+U18466.2	4608	5141	KP177R	1000	+	4608	5141	31,119,180	membrane protein; contains N-terminal transmembrane region; protein synthesis: early; member of the multigene family p22
+U18466.2	5279	5530	L83L	1000	-	5279	5530	31,119,180	putative product contains farnesylation signal
+U18466.2	5625	5798	L57L	1000	-	5625	5798	31,119,180	
+U18466.2	5983	7053	L356L	1000	-	5983	7053	31,119,180	member of multigene family 360
+U18466.2	7280	8092	L270L	1000	-	7280	8092	31,119,180	member of multigene family 110; putative transmembrane protein; contains two family 110 domains; contains two central transmembrane regions; gene expression: immediate-early
+U18466.2	8220	8534	U104L	1000	-	8220	8534	31,119,180	member of multigene family 110; gene expression: early
+U18466.2	8631	9005	XP124L	1000	-	8631	9005	31,119,180	member of multigene family 110; gene expression: early
+U18466.2	9183	9431	V82L	1000	-	9183	9431	31,119,180	member of multigene family 110; gene expression: early
+U18466.2	9655	10011	Y118L	1000	-	9655	10011	31,119,180	member of multigene family 110; gene expression: early; contains endoplasmic reticulum retention signal KDEL
+U18466.2	10234	10416	UP60L	1000	-	10234	10416	31,119,180	member of multigene family 360
+U18466.2	10484	10616	pNG7	1000	+	10484	10616	31,119,180	
+U18466.2	10583	10835	pNG4	1000	+	10583	10835	31,119,180	
+U18466.2	11326	11535	X69R	1000	+	11326	11535	31,119,180	putative transmembrane protein; contains N-terminal hydrophobic segment; contains central transmembrane region
+U18466.2	11723	12529	J268L	1000	-	11723	12529	31,119,180	member of multigene family 300; gene expression: early
+U18466.2	12664	12896	pNG3	1000	+	12664	12896	31,119,180	
+U18466.2	13053	13435	pNG1	1000	+	13053	13435	31,119,180	
+U18466.2	13485	13679	J64R	1000	+	13485	13679	31,119,180	
+U18466.2	14260	14724	J154R	1000	+	14260	14724	31,119,180	member of multigene family 300; gene expression: early
+U18466.2	14833	15819	J328L	1000	-	14833	15819	31,119,180	member of multigene family 300; gene expression: early
+U18466.2	15937	16896	J319L	1000	-	15937	16896	31,119,180	member of multigene family 360; gene expression: early
+U18466.2	17058	17435	A125L	1000	-	17058	17435	31,119,180	member of multigene family 360
+U18466.2	17726	19195	A489R	1000	+	17726	19195	31,119,180	member of multigene family 505; gene expression: late
+U18466.2	19392	20234	A280R	1000	+	19392	20234	31,119,180	member of multigene family 505; contains internal 6-aa repeat; gene expression: early
+U18466.2	20399	21916	A505R	1000	+	20399	21916	31,119,180	member of multigene family 505; gene expression: early
+U18466.2	21945	23441	A498R	1000	+	21945	23441	31,119,180	member of multigene family 505; gene expression: early
+U18466.2	23639	25225	A528R	1000	+	23639	25225	31,119,180	member of multigene family 505; contains helix-turn-helix motif; gene expression: early
+U18466.2	25533	27053	A506R	1000	+	25533	27053	31,119,180	member of multigene family 505; gene expression: early
+U18466.2	27377	29005	A542R	1000	+	27377	29005	31,119,180	member of multigene family 505; gene expression: early
+U18466.2	29121	29795	A224L	1000	-	29121	29795	31,119,180	putative product contains BIR motif of baculovirus IAP proteins; cysteine-rich
+U18466.2	29817	30080	pNG5	1000	+	29817	30080	31,119,180	
+U18466.2	29827	30091	pNG2	1000	-	29827	30091	31,119,180	
+U18466.2	30167	30481	A104R	1000	+	30167	30481	31,119,180	structural protein
+U18466.2	30478	31200	A240L	1000	-	30478	31200	31,119,180	gene expression: early
+U18466.2	31112	31468	A118R	1000	+	31112	31468	31,119,180	putative
+U18466.2	31498	31953	A151R	1000	+	31498	31953	31,119,180	contains CXXC motif; interacts with pB119L and pE248R; gene expression early 'component of the viral system for disulfide bond formation
+U18466.2	32298	33128	A276R	1000	+	32298	33128	31,119,180	member of multigene family 360
+U18466.2	33334	34050	A238L	1000	-	33334	34050	31,119,180	putative product contains IkB-like ankyrin repeats; non-essential
+U18466.2	34090	36669	A859L	1000	-	34090	36669	31,119,180	member of helicase superfamily II group including hsdR subunits of type Ib restriction enzymes; contains two overlapping leucine zippers
+U18466.2	36671	37210	A179L	1000	-	36671	37210	31,119,180	protein synthesis: early and late
+U18466.2	37454	37867	A137R	1000	+	37454	37867	31,119,180	gene expression: late
+U18466.2	37900	38853	F317L	1000	-	37900	38853	31,119,180	putative
+U18466.2	38878	39882	F334L	1000	-	38878	39882	31,119,180	
+U18466.2	39903	42239	F778R	1000	+	39903	42239	31,119,180	glycine-rich
+U18466.2	42272	42769	F165R	1000	+	42272	42769	31,119,180	putative product contains phenylalanine-rich region
+U18466.2	42756	45923	F1055L	1000	-	42756	45923	31,119,180	member of helicase superfamily II; similar to herpesvirus origin-binding protein encoded by GenBank Accession Number M68963; contains cell attachment sequence RGD; aspartic acid-rich
+U18466.2	46092	46709	K205R	1000	+	46092	46709	31,119,180	gene expression: early
+U18466.2	46798	47034	K78R	1000	+	46798	47034	31,119,180	DNA-binding protein; serine phosphorylated; serine- and glycine-rich
+U18466.2	47031	47621	K196R	1000	+	47031	47621	31,119,180	non-essential
+U18466.2	47637	48074	K145R	1000	+	47637	48074	31,119,180	gene expression: late
+U18466.2	48107	49372	K421R	1000	+	48107	49372	31,119,180	gene expression: late
+U18466.2	49391	53119	EP1242L	1000	-	49391	53119	31,119,180	gene expression: late
+U18466.2	53198	53452	EP84R	1000	+	53198	53452	31,119,180	putative transmembrane protein; contains two transmembrane regions; gene expression: late
+U18466.2	53488	54762	EP424R	1000	+	53488	54762	31,119,180	contains FTS J-like methyl transferase domain; putative  methyltransferase
+U18466.2	55245	55703	EP152R	1000	+	55245	55703	31,119,180	putative transmembrane protein; contains N-terminal transmembrane region
+U18466.2	55706	56167	EP153R	1000	+	55706	56167	31,119,180	putative transmembrane protein; contains C-type animal lectin-like region; contains cell attachment sequence RGD; contains central transmembrane region; asparagine-rich
+U18466.2	56243	57451	EP402R	1000	+	56243	57451	31,119,180	membrane protein; responsible for hemadsorption of ASFV-infected cells; nonessential; contains N-terminal hydrophobic segment and central transmembrane region; contains tandem repeats; proline-rich; gene expression: late
+U18466.2	57560	58654	EP364R	1000	+	57560	58654	31,119,180	similar to ERCC4-type DNA repair nuclease
+U18466.2	58718	62467	M1249L	1000	-	58718	62467	31,119,180	putative
+U18466.2	62507	63853	M448R	1000	+	62507	63853	31,119,180	putative product contains microbody targeting signal; similar to the T4 RNA ligase 1 (Rnl1) family of RNA ligases
+U18466.2	63940	64329	C129R	1000	+	63940	64329	31,119,180	gene expression: late
+U18466.2	64376	64630	C84L	1000	-	64376	64630	31,119,180	putative
+U18466.2	65054	67207	C717R	1000	+	65054	67207	31,119,180	putative
+U18466.2	67194	67511	C105R	1000	+	67194	67511	31,119,180	putative
+U18466.2	67910	68683	C257L	1000	-	67910	68683	31,119,180	putative transmembrane protein; contains central transmembrane region
+U18466.2	68662	70089	C475L	1000	-	68662	70089	31,119,180	similar to the poly(A) polymerases of members of the family of nucleocytoplasmic large DNA viruses; putative  poly(A) polymerase
+U18466.2	70142	71089	C315R	1000	+	70142	71089	31,119,180	similar to the homologues to the transcription factor TFIIB of mimivirus and large unclassified DNA viruses; putative  transcription factor TFIIB-like
+U18466.2	71170	71613	C147L	1000	-	71170	71613	31,119,180	putative
+U18466.2	71773	71961	C62L	1000	-	71773	71961	31,119,180	putative
+U18466.2	72043	74931	C962R	1000	+	72043	74931	31,119,180	putative product contains ATP- or GTP-binding motif; putative  DNA primase
+U18466.2	75069	77957	B962L	1000	-	75069	77957	31,119,180	member of helicase superfamily II group including 'DEAH' pre-mRNA processing proteins and vaccinia I8R; gene expression: late
+U18466.2	77917	78276	B119L	1000	-	77917	78276	31,119,180	protein expression: late; similar to S. cerevisiae ERV1 protein, Swiss-Prot Accession Number P27882, and Vaccinia virus E10R protein, Swiss-Prot Accession Number P21050; component of the viral system for disulfide bond formation
+U18466.2	78257	79213	B318L	1000	-	78257	79213	31,119,180	putative transmembrane protein; contains N-terminal transmembrane region
+U18466.2	79180	80496	B438L	1000	-	79180	80496	31,119,180	product contains cell attachment sequence RGD; contains helix-turn-helix motif; structural protein p49, required for formation of the vertices in icosahedral capsid
+U18466.2	80509	81018	B169L	1000	-	80509	81018	31,119,180	putative transmembrane protein; contains two central transmembrane regions; contains tandem repeats
+U18466.2	81035	82462	B475L	1000	-	81035	82462	31,119,180	putative product contains three overlapping leucine zippers; contains tandem repeats; glutamic acid-rich
+U18466.2	82599	83663	B354L	1000	-	82599	83663	31,119,180	putative product contains ATP- or GTP-binding motif
+U18466.2	83674	85482	B602L	1000	-	83674	85482	31,119,180	product contains highly variable tandem repeats; cysteine-rich region similar to that of the epidermal growth factor receptor; gene expression: late; required for the correct folding of the capsid protein p72
+U18466.2	85537	86694	B385R	1000	+	85537	86694	31,119,180	putative product contains Zn finger C2H2; similar to the vaccinia virus late transcription factor A2; putative  transcription factor
+U18466.2	86793	88733	B646L	1000	-	86793	88733	31,119,180	similar to Chlorella virus PBCV-1 major capsid protein, PIR Accession Number A40245; similar to Tipoula iridescent virus type 1 major capsid protein, Swiss-Prot Accession Number P18162; contains tandem repeats; gene expression: late
+U18466.2	88773	89150	B125R	1000	+	88773	89150	31,119,180	putative
+U18466.2	89123	89476	B117L	1000	-	89123	89476	31,119,180	putative transmembrane protein; contains central transmembrane region; histidine- and alanine-rich
+U18466.2	89483	90706	B407L	1000	-	89483	90706	31,119,180	putative product contains tandem repeats; serine- and glycine-rich
+U18466.2	90734	91261	B175L	1000	-	90734	91261	31,119,180	similar to poxvirus late transcription factor A1; putative transcription factor
+U18466.2	91308	92099	B263R	1000	+	91308	92099	31,119,180	putative
+U18466.2	92096	92296	B66L	1000	-	92096	92296	31,119,180	putative transmembrane protein; contains C-terminal transmembrane region
+U18466.2	92302	96324	G1340L	1000	-	92302	96324	31,119,180	putative product contains ATP- or GTP-binding motif; similar to poxvirus early transcription factor (VETF), large subunit; putative  transcription factor
+U18466.2	96365	100000	G1211R	1000	+	96365	100000	31,119,180	aphidicolin-resistant; phosphonoacetic acid-sensitive; gene starts at 2nd ATG codon of ORF (G1207R); contains tandem repeats; gene expression: early and late; belongs to group of alpha-like DNA polymerases
+U18466.2	99997	100368	CP123L	1000	-	99997	100368	31,119,180	putative transmembrane protein; contains N-terminal transmembrane region; proline-rich
+U18466.2	100477	107904	CP2475L	1000	-	100477	107904	31,119,180	contains two RGD cell attachment motifs; myristoylated; precursor of structural proteins p150, p37, p14 and p34; protein synthesis: late
+U18466.2	107977	108591	CP204L	1000	-	107977	108591	31,119,180	serine phosphorylated; protein size varies in different isolates; associates in hexameric homo-oligomers; gene starts at 2nd ATG codon of ORF (CP196L); glutamic acid-rich; gene expression: early; protein synthesis: early
+U18466.2	108622	110214	CP530R	1000	+	108622	110214	31,119,180	precursor of structural proteins p35 and p15
+U18466.2	110217	110459	CP80R	1000	+	110217	110459	31,119,180	similar to the archaeo-eukaryotic RNA polymerase II subunit 10 (RPB10)
+U18466.2	110486	111424	CP312R	1000	+	110486	111424	31,119,180	putative
+U18466.2	111445	111969	O174L	1000	-	111445	111969	31,119,180	product is similar to DNA polymerase beta, Swiss-Prot Accession Number P06746 and terminal deoxynucleotidyl transferase, encoded by GenBank Accession Number U07803
+U18466.2	112019	112204	O61R	1000	+	112019	112204	31,119,180	putative transmembrane protein; virus attachment protein; associates in homodimers; contains central transmembrane region; gene expression: late; protein synthesis: late
+U18466.2	112254	116606	NP1450L	1000	-	112254	116606	31,119,180	gene expression: late
+U18466.2	116689	117948	NP419L	1000	-	116689	117948	31,119,180	protein synthesis: early
+U18466.2	118013	120619	NP868R	1000	+	118013	120619	31,119,180	structural protein
+U18466.2	120676	121428	D250R	1000	+	120676	121428	31,119,180	product contains region conserved in MutT-like proteins; nudix hydrolase, possesses mRNA decapping activity
+U18466.2	121609	121998	D129L	1000	-	121609	121998	31,119,180	putative
+U18466.2	122071	122310	D79L	1000	-	122071	122310	31,119,180	putative product contains S100_CABP motif (EF-hand-like signature)
+U18466.2	122379	123398	D339L	1000	-	122379	123398	31,119,180	contains a protein-protein interaction SHS2 domain with an architecture SHS2_Rpb7-N (pfam03876), characteristic of the SHS2 domains found in N-terminus of the archaeo-eukaryotic RNA polymerase II subunit 7 (RPB7); RNA polymerase subunit 7
+U18466.2	123531	126932	D1133L	1000	-	123531	126932	31,119,180	member of helicase superfamily II group including vaccinia D11L and D6R, and ASFV pQ706L; contains helix-turn-helix motif; gene expression: late; putative  transcription factor
+U18466.2	127163	127516	D117L	1000	-	127163	127516	31,119,180	putative transmembrane protein; contains central transmembrane region
+U18466.2	127573	128190	D205R	1000	+	127573	128190	31,119,180	putative
+U18466.2	128217	129254	D345L	1000	-	128217	129254	31,119,180	Lambda-like exonuclease
+U18466.2	129254	129805	S183L	1000	-	129254	129805	31,119,180	putative
+U18466.2	129866	130687	S273R	1000	+	129866	130687	31,119,180	gene expression: late; Ulp1 protease family;product contains cell attachment sequence RGD; viral protease, processes the 220 and 60 kDa viral polyproteins
+U18466.2	130722	134300	P1192R	1000	+	130722	134300	31,119,180	gene expression: late
+U18466.2	134331	135410	H359L	1000	-	134331	135410	31,119,180	putative product contains possible ATP- or GTP-binding motif
+U18466.2	135445	135960	H171R	1000	+	135445	135960	31,119,180	putative product contains tandem repeats; glutamine- and proline-rich
+U18466.2	136000	136374	H124R	1000	+	136000	136374	31,119,180	putative
+U18466.2	136396	137415	H339R	1000	+	136396	137415	31,119,180	putative
+U18466.2	137427	137753	H108R	1000	+	137427	137753	31,119,180	putative transmembrane protein; contains N-terminal transmembrane region; threonine- and isoleucine-rich
+U18466.2	137713	138414	H233R	1000	+	137713	138414	31,119,180	putative transmembrane protein; contains central transmembrane region
+U18466.2	138529	139251	H240R	1000	+	138529	139251	31,119,180	putative
+U18466.2	139248	140144	R298L	1000	-	139248	140144	31,119,180	structural protein
+U18466.2	140119	142239	Q706L	1000	-	140119	142239	31,119,180	member of helicase superfamily II group including vaccinia D11L and D6R, and ASFV pD1133L; putative  transcription factor
+U18466.2	142197	143726	QP509L	1000	-	142197	143726	31,119,180	member of helicase superfamily II group including human ERCC-3, vaccinia A18R and bacteriophage T5 D10; putative  transcription factor
+U18466.2	143716	144867	QP383R	1000	+	143716	144867	31,119,180	similar to pyridoxal phosphate-dependent aminotransferases of class V
+U18466.2	144815	145369	E184L	1000	-	144815	145369	31,119,180	putative
+U18466.2	145413	145964	E183L	1000	-	145413	145964	31,119,180	transmembrane protein; contains N-terminal transmembrane region; contains tandem repeats; protein size varies in different isolates; threonine-, proline- and alanine-rich; gene expression: late; protein synthesis: late; structural, internal membrane prote
+U18466.2	145995	147266	E423R	1000	+	145995	147266	31,119,180	putative
+U18466.2	147419	148324	E301R	1000	+	147419	148324	31,119,180	putative
+U18466.2	148358	148798	E146L	1000	-	148358	148798	31,119,180	putative transmembrane protein; contains N-terminal transmembrane region
+U18466.2	148982	149581	E199L	1000	-	148982	149581	31,119,180	putative transmembrane protein; contains C-terminal transmembrane region; cysteine-rich
+U18466.2	149609	150106	E165R	1000	+	149609	150106	31,119,180	gene expression: early and late
+U18466.2	150129	150875	E248R	1000	+	150129	150875	31,119,180	putative transmembrane protein; contains C-terminal transmembrane region; asparagine-rich~structural protein;belongs to the superfamily of myristoylated proteins related to vaccinia virus L1R; interacts with pA151R; protein expression: late; component of 
+U18466.2	150917	151279	E120R	1000	+	150917	151279	31,119,180	DNA-binding protein; gene expression: late; structural protein p14.5, required for the release of the virus from the viral factories
+U18466.2	151309	152199	E296R	1000	+	151309	152199	31,119,180	protein is expressed at early times and accumulates at later times; class II apurinic/apyrimidinic (AP) endonuclease
+U18466.2	152202	152537	E111R	1000	+	152202	152537	31,119,180	putative
+U18466.2	152614	152814	E66L	1000	-	152614	152814	31,119,180	putative
+U18466.2	152762	153565	I267L	1000	-	152762	153565	31,119,180	gene expression: early
+U18466.2	153717	154397	I226R	1000	+	153717	154397	31,119,180	gene expression: intermediate and late
+U18466.2	154394	155125	I243L	1000	-	154394	155125	31,119,180	TFIIS; cysteine-rich; gene expression: early, intermediate and late
+U18466.2	155210	155431	I73R	1000	+	155210	155431	31,119,180	gene expression: early
+U18466.2	155667	156656	I329L	1000	-	155667	156656	31,119,180	transmembrane protein; contains central transmembrane region; gene expression: late; inhibitor of the Toll-like receptor 3 (TLR3) signaling pathway
+U18466.2	156964	157611	I215L	1000	-	156964	157611	31,119,180	gene expression: immediate-early
+U18466.2	157649	158182	I177L	1000	-	157649	158182	31,119,180	putative transmembrane protein; contains N-terminal transmembrane region; gene expression: late
+U18466.2	158175	158765	I196L	1000	-	158175	158765	31,119,180	putative product contains tandem repeats; serine- and threonine-rich; gene expression: late
+U18466.2	158859	159575	DP238L	1000	-	158859	159575	31,119,180	putative product is serine-rich; gene expression: early
+U18466.2	159752	160687	DP311R	1000	+	159752	160687	31,119,180	member of multigene family 360; gene expression: early
+U18466.2	160617	160808	DP63R	1000	+	160617	160808	31,119,180	member of multigene family 360
+U18466.2	160886	162514	DP542L	1000	-	160886	162514	31,119,180	member of multigene family 505
+U18466.2	162633	163058	DP141L	1000	-	162633	163058	31,119,180	member of multigene family 100
+U18466.2	163277	163717	DP146L	1000	-	163277	163717	31,119,180	member of multigene family 100
+U18466.2	164082	164528	DP148R	1000	+	164082	164528	31,119,180	member of multigene family 360
+U18466.2	164511	164726	DP71L	1000	-	164511	164726	31,119,180	putative product is similar to mouse protein MyD116, Swiss-Prot Accession Number P17564, protein encoded by Cricetulus longicaudatus GADD34 gene, GenBank Accession Number L28147, HSV1 infected-cell protein (ICP34.5), Swiss-Prot Accession Number P37319, an
+U18466.2	164822	165112	DP96R	1000	+	164822	165112	31,119,180	putative
+U18466.2	165725	166816	DP363R	1000	+	165725	166816	31,119,180	member of multigene family 360; gene expression: early
+U18466.2	167005	167336	pNG6	1000	+	167005	167336	31,119,180	
+U18466.2	167481	167609	DP42R	1000	+	167481	167609	31,119,180	member of multigene family 360
+U18466.2	167693	167875	DP60R	1000	+	167693	167875	31,119,180	putative transmembrane protein; contains N-terminal transmembrane region
+U18466.2	167931	170064	id-U18466.2:167931..170064	1000	+	167931	170064	255,127,14	terminal inverted repeat
+U18466.2	167950	168231	DP93R	1000	+	167950	168231	31,119,180	putative transmembrane protein; identical to KP93L; contains central transmembrane region; contains tandem repeats; proline-rich
+U18466.2	168098	168358	DP86L	1000	-	168098	168358	31,119,180	putative transmembrane protein; identical to KP86R; contains central transmembrane region; contains tandem repeats; cysteine-rich
+U18466.2	170065	170101	id-U18466.2:170065..170101	1000	+	170065	170101	214,39,40	single-stranded hairpin loop

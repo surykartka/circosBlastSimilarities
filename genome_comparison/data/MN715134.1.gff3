@@ -1,0 +1,391 @@
+##sequence-region MN715134.1 1 190601
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10497
+MN715134.1	Genbank	region	1	190601	.	+	.	ID=MN715134.1:1..190601;Dbxref=taxon:10497;collection-date=24-Apr-2018;country=Hungary;gbkey=Src;genome=genomic;isolation-source=porcine alveolar macrophages;mol_type=genomic DNA;nat-host=wild boar;strain=ASFV_HU_2018
+MN715134.1	Genbank	gene	403	582	.	-	.	ID=gene-DP60R;Name=DP60R;gbkey=Gene;gene=DP60R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	403	582	.	-	0	ID=cds-QGV56975.1;Parent=gene-DP60R;Dbxref=NCBI_GP:QGV56975.1;Name=QGV56975.1;gbkey=CDS;gene=DP60R;product=DP60R protein;protein_id=QGV56975.1
+MN715134.1	Genbank	gene	703	849	.	+	.	ID=gene-ASFV G ACD 01990;Name=ASFV G ACD 01990;gbkey=Gene;gene=ASFV G ACD 01990;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	703	849	.	+	0	ID=cds-QGV56981.1;Parent=gene-ASFV G ACD 01990;Dbxref=NCBI_GP:QGV56981.1;Name=QGV56981.1;gbkey=CDS;gene=ASFV G ACD 01990;product=ASFV G ACD 01990 protein;protein_id=QGV56981.1
+MN715134.1	Genbank	gene	1814	2647	.	-	.	ID=gene-MGF 360-1La;Name=MGF 360-1La;gbkey=Gene;gene=MGF 360-1La;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	1814	2647	.	-	0	ID=cds-QGV56878.1;Parent=gene-MGF 360-1La;Dbxref=NCBI_GP:QGV56878.1;Name=QGV56878.1;gbkey=CDS;gene=MGF 360-1La;product=MGF 360-1La protein;protein_id=QGV56878.1
+MN715134.1	Genbank	gene	2575	2895	.	-	.	ID=gene-MGF 360-1Lb;Name=MGF 360-1Lb;gbkey=Gene;gene=MGF 360-1Lb;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	2575	2895	.	-	0	ID=cds-QGV56946.1;Parent=gene-MGF 360-1Lb;Dbxref=NCBI_GP:QGV56946.1;Name=QGV56946.1;gbkey=CDS;gene=MGF 360-1Lb;product=MGF 360-1Lb protein;protein_id=QGV56946.1
+MN715134.1	Genbank	gene	2980	4068	.	-	.	ID=gene-MGF 360-2L;Name=MGF 360-2L;gbkey=Gene;gene=MGF 360-2L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	2980	4068	.	-	0	ID=cds-QGV56848.1;Parent=gene-MGF 360-2L;Dbxref=NCBI_GP:QGV56848.1;Name=QGV56848.1;gbkey=CDS;gene=MGF 360-2L;product=MGF 360-2L protein;protein_id=QGV56848.1
+MN715134.1	Genbank	gene	4209	4742	.	+	.	ID=gene-KP177R;Name=KP177R;gbkey=Gene;gene=KP177R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	4209	4742	.	+	0	ID=cds-QGV56911.1;Parent=gene-KP177R;Dbxref=NCBI_GP:QGV56911.1;Name=QGV56911.1;gbkey=CDS;gene=KP177R;product=KP177R protein;protein_id=QGV56911.1
+MN715134.1	Genbank	gene	4879	5124	.	-	.	ID=gene-L83L;Name=L83L;gbkey=Gene;gene=L83L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	4879	5124	.	-	0	ID=cds-QGV56959.1;Parent=gene-L83L;Dbxref=NCBI_GP:QGV56959.1;Name=QGV56959.1;gbkey=CDS;gene=L83L;product=L83L protein;protein_id=QGV56959.1
+MN715134.1	Genbank	gene	5225	5383	.	-	.	ID=gene-L60L;Name=L60L;gbkey=Gene;gene=L60L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	5225	5383	.	-	0	ID=cds-QGV56976.1;Parent=gene-L60L;Dbxref=NCBI_GP:QGV56976.1;Name=QGV56976.1;gbkey=CDS;gene=L60L;product=L60L protein;protein_id=QGV56976.1
+MN715134.1	Genbank	gene	5542	6612	.	-	.	ID=gene-MGF 360-3L;Name=MGF 360-3L;gbkey=Gene;gene=MGF 360-3L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	5542	6612	.	-	0	ID=cds-QGV56852.1;Parent=gene-MGF 360-3L;Dbxref=NCBI_GP:QGV56852.1;Name=QGV56852.1;gbkey=CDS;gene=MGF 360-3L;product=MGF 360-3L protein;protein_id=QGV56852.1
+MN715134.1	Genbank	gene	7058	7648	.	-	.	ID=gene-MGF 110-1L;Name=MGF 110-1L;gbkey=Gene;gene=MGF 110-1L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	7058	7648	.	-	0	ID=cds-QGV56904.1;Parent=gene-MGF 110-1L;Dbxref=NCBI_GP:QGV56904.1;Name=QGV56904.1;gbkey=CDS;gene=MGF 110-1L;product=MGF 110-1L protein;protein_id=QGV56904.1
+MN715134.1	Genbank	gene	7647	7760	.	+	.	ID=gene-ASFV G ACD 00090;Name=ASFV G ACD 00090;gbkey=Gene;gene=ASFV G ACD 00090;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	7647	7760	.	+	0	ID=cds-QGV56991.1;Parent=gene-ASFV G ACD 00090;Dbxref=NCBI_GP:QGV56991.1;Name=QGV56991.1;gbkey=CDS;gene=ASFV G ACD 00090;product=ASFV G ACD 00090 protein;protein_id=QGV56991.1
+MN715134.1	Genbank	gene	7828	8142	.	-	.	ID=gene-MGF 110-2L;Name=MGF 110-2L;gbkey=Gene;gene=MGF 110-2L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	7828	8142	.	-	0	ID=cds-QGV56948.1;Parent=gene-MGF 110-2L;Dbxref=NCBI_GP:QGV56948.1;Name=QGV56948.1;gbkey=CDS;gene=MGF 110-2L;product=MGF 110-2L protein;protein_id=QGV56948.1
+MN715134.1	Genbank	gene	8239	8613	.	-	.	ID=gene-MGF 110-3L;Name=MGF 110-3L;gbkey=Gene;gene=MGF 110-3L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	8239	8613	.	-	0	ID=cds-QGV56934.1;Parent=gene-MGF 110-3L;Dbxref=NCBI_GP:QGV56934.1;Name=QGV56934.1;gbkey=CDS;gene=MGF 110-3L;product=MGF 110-3L protein;protein_id=QGV56934.1
+MN715134.1	Genbank	gene	8724	8948	.	+	.	ID=gene-ASFV G ACD 00120;Name=ASFV G ACD 00120;gbkey=Gene;gene=ASFV G ACD 00120;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	8724	8948	.	+	0	ID=cds-QGV56964.1;Parent=gene-ASFV G ACD 00120;Dbxref=NCBI_GP:QGV56964.1;Name=QGV56964.1;gbkey=CDS;gene=ASFV G ACD 00120;product=ASFV G ACD 00120 protein;protein_id=QGV56964.1
+MN715134.1	Genbank	gene	8927	9301	.	-	.	ID=gene-MGF 110-4L;Name=MGF 110-4L;gbkey=Gene;gene=MGF 110-4L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	8927	9301	.	-	0	ID=cds-QGV56935.1;Parent=gene-MGF 110-4L;Dbxref=NCBI_GP:QGV56935.1;Name=QGV56935.1;gbkey=CDS;gene=MGF 110-4L;product=MGF 110-4L protein;protein_id=QGV56935.1
+MN715134.1	Genbank	gene	9490	10107	.	-	.	ID=gene-MGF 110-5L-6L;Name=MGF 110-5L-6L;gbkey=Gene;gene=MGF 110-5L-6L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	9490	10107	.	-	0	ID=cds-QGV56899.1;Parent=gene-MGF 110-5L-6L;Dbxref=NCBI_GP:QGV56899.1;Name=QGV56899.1;gbkey=CDS;gene=MGF 110-5L-6L;product=MGF 110-5L-6L protein;protein_id=QGV56899.1
+MN715134.1	Genbank	gene	10314	10727	.	-	.	ID=gene-MGF 110-7L;Name=MGF 110-7L;gbkey=Gene;gene=MGF 110-7L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	10314	10727	.	-	0	ID=cds-QGV56928.1;Parent=gene-MGF 110-7L;Dbxref=NCBI_GP:QGV56928.1;Name=QGV56928.1;gbkey=CDS;gene=MGF 110-7L;product=MGF 110-7L protein;protein_id=QGV56928.1
+MN715134.1	Genbank	gene	11042	11326	.	-	.	ID=gene-285L;Name=285L;gbkey=Gene;gene=285L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	11042	11326	.	-	0	ID=cds-QGV56955.1;Parent=gene-285L;Dbxref=NCBI_GP:QGV56955.1;Name=QGV56955.1;gbkey=CDS;gene=285L;product=285L protein;protein_id=QGV56955.1
+MN715134.1	Genbank	gene	11068	11196	.	-	.	ID=gene-ASFV G ACD 00160;Name=ASFV G ACD 00160;gbkey=Gene;gene=ASFV G ACD 00160;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	11068	11196	.	-	0	ID=cds-QGV56986.1;Parent=gene-ASFV G ACD 00160;Dbxref=NCBI_GP:QGV56986.1;Name=QGV56986.1;gbkey=CDS;gene=ASFV G ACD 00160;product=ASFV G ACD 00160 protein;protein_id=QGV56986.1
+MN715134.1	Genbank	gene	11455	11838	.	-	.	ID=gene-MGF 110-8L;Name=MGF 110-8L;end_range=11838,.;gbkey=Gene;gene=MGF 110-8L;gene_biotype=protein_coding;partial=true
+MN715134.1	Genbank	CDS	11455	11838	.	-	0	ID=cds-QGV56932.1;Parent=gene-MGF 110-8L;Dbxref=NCBI_GP:QGV56932.1;Name=QGV56932.1;end_range=11838,.;gbkey=CDS;gene=MGF 110-8L;partial=true;product=MGF 110-8L protein;protein_id=QGV56932.1
+MN715134.1	Genbank	gene	12056	12430	.	+	.	ID=gene-MGF 100-1R;Name=MGF 100-1R;gbkey=Gene;gene=MGF 100-1R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	12056	12430	.	+	0	ID=cds-QGV56936.1;Parent=gene-MGF 100-1R;Dbxref=NCBI_GP:QGV56936.1;Name=QGV56936.1;gbkey=CDS;gene=MGF 100-1R;product=MGF 100-1R protein;protein_id=QGV56936.1
+MN715134.1	Genbank	gene	12456	12599	.	-	.	ID=gene-ASFV G ACD 00190;Name=ASFV G ACD 00190;gbkey=Gene;gene=ASFV G ACD 00190;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	12456	12599	.	-	0	ID=cds-QGV56983.1;Parent=gene-ASFV G ACD 00190;Dbxref=NCBI_GP:QGV56983.1;Name=QGV56983.1;gbkey=CDS;gene=ASFV G ACD 00190;product=ASFV G ACD 00190 protein;protein_id=QGV56983.1
+MN715134.1	Genbank	gene	12589	13461	.	-	.	ID=gene-MGF 110-9L;Name=MGF 110-9L;gbkey=Gene;gene=MGF 110-9L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	12589	13461	.	-	0	ID=cds-QGV56875.1;Parent=gene-MGF 110-9L;Dbxref=NCBI_GP:QGV56875.1;Name=QGV56875.1;gbkey=CDS;gene=MGF 110-9L;product=MGF 110-9L protein;protein_id=QGV56875.1
+MN715134.1	Genbank	gene	13460	13651	.	+	.	ID=gene-ASFV G ACD 00210;Name=ASFV G ACD 00210;gbkey=Gene;gene=ASFV G ACD 00210;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	13460	13651	.	+	0	ID=cds-QGV56970.1;Parent=gene-ASFV G ACD 00210;Dbxref=NCBI_GP:QGV56970.1;Name=QGV56970.1;gbkey=CDS;gene=ASFV G ACD 00210;product=ASFV G ACD 00210 protein;protein_id=QGV56970.1
+MN715134.1	Genbank	gene	13752	14570	.	-	.	ID=gene-MGF 110-10-L/MGF110-14L fusion;Name=MGF 110-10-L/MGF110-14L fusion;gbkey=Gene;gene=MGF 110-10-L/MGF110-14L fusion;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	13752	14570	.	-	0	ID=cds-QGV56881.1;Parent=gene-MGF 110-10-L/MGF110-14L fusion;Dbxref=NCBI_GP:QGV56881.1;Name=QGV56881.1;gbkey=CDS;gene=MGF 110-10-L/MGF110-14L fusion;product=MGF 110-10-L/MGF110-14L fusion protein;protein_id=QGV56881.1
+MN715134.1	Genbank	sequence_feature	14222	14236	.	+	.	ID=id-MN715134.1:14222..14236;Note=Poly C region;gbkey=misc_feature
+MN715134.1	Genbank	gene	14569	14679	.	+	.	ID=gene-ASFV G ACD 00240;Name=ASFV G ACD 00240;gbkey=Gene;gene=ASFV G ACD 00240;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	14569	14679	.	+	0	ID=cds-QGV56994.1;Parent=gene-ASFV G ACD 00240;Dbxref=NCBI_GP:QGV56994.1;Name=QGV56994.1;gbkey=CDS;gene=ASFV G ACD 00240;product=ASFV G ACD 00240 protein;protein_id=QGV56994.1
+MN715134.1	Genbank	gene	14760	15119	.	-	.	ID=gene-MGF 110-12L;Name=MGF 110-12L;gbkey=Gene;gene=MGF 110-12L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	14760	15119	.	-	0	ID=cds-QGV56940.1;Parent=gene-MGF 110-12L;Dbxref=NCBI_GP:QGV56940.1;Name=QGV56940.1;gbkey=CDS;gene=MGF 110-12L;product=MGF 110-12L protein;protein_id=QGV56940.1
+MN715134.1	Genbank	gene	15205	16029	.	-	.	ID=gene-MGF 110-13Lb;Name=MGF 110-13Lb;gbkey=Gene;gene=MGF 110-13Lb;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	15205	16029	.	-	0	ID=cds-QGV56879.1;Parent=gene-MGF 110-13Lb;Dbxref=NCBI_GP:QGV56879.1;Name=QGV56879.1;gbkey=CDS;gene=MGF 110-13Lb;product=MGF 110-13Lb protein;protein_id=QGV56879.1
+MN715134.1	Genbank	sequence_feature	15665	15680	.	+	.	ID=id-MN715134.1:15665..15680;Note=Poly C region;gbkey=misc_feature
+MN715134.1	Genbank	gene	16054	16167	.	-	.	ID=gene-ASFV G ACD 00270;Name=ASFV G ACD 00270;gbkey=Gene;gene=ASFV G ACD 00270;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	16054	16167	.	-	0	ID=cds-QGV56992.1;Parent=gene-ASFV G ACD 00270;Dbxref=NCBI_GP:QGV56992.1;Name=QGV56992.1;gbkey=CDS;gene=ASFV G ACD 00270;product=ASFV G ACD 00270 protein;protein_id=QGV56992.1
+MN715134.1	Genbank	gene	16210	17373	.	-	.	ID=gene-MGF 360-4L;Name=MGF 360-4L;gbkey=Gene;gene=MGF 360-4L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	16210	17373	.	-	0	ID=cds-QGV56843.1;Parent=gene-MGF 360-4L;Dbxref=NCBI_GP:QGV56843.1;Name=QGV56843.1;gbkey=CDS;gene=MGF 360-4L;product=MGF 360-4L protein;protein_id=QGV56843.1
+MN715134.1	Genbank	sequence_feature	17622	17632	.	+	.	ID=id-MN715134.1:17622..17632;Note=Poly G region;gbkey=misc_feature
+MN715134.1	Genbank	gene	17928	18044	.	-	.	ID=gene-ASFV G ACD 00300;Name=ASFV G ACD 00300;gbkey=Gene;gene=ASFV G ACD 00300;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	17928	18044	.	-	0	ID=cds-QGV56989.1;Parent=gene-ASFV G ACD 00300;Dbxref=NCBI_GP:QGV56989.1;Name=QGV56989.1;gbkey=CDS;gene=ASFV G ACD 00300;product=ASFV G ACD 00300 protein;protein_id=QGV56989.1
+MN715134.1	Genbank	gene	18188	19315	.	-	.	ID=gene-MGF 360-6L;Name=MGF 360-6L;gbkey=Gene;gene=MGF 360-6L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	18188	19315	.	-	0	ID=cds-QGV56846.1;Parent=gene-MGF 360-6L;Dbxref=NCBI_GP:QGV56846.1;Name=QGV56846.1;gbkey=CDS;gene=MGF 360-6L;product=MGF 360-6L protein;protein_id=QGV56846.1
+MN715134.1	Genbank	CDS	19404	19505	.	+	0	ID=cds-QGV56997.1;Dbxref=NCBI_GP:QGV56997.1;Name=QGV56997.1;gbkey=CDS;product=hypothetical protein;protein_id=QGV56997.1
+MN715134.1	Genbank	gene	19540	19668	.	+	.	ID=gene-ASFV G ACD 00320;Name=ASFV G ACD 00320;gbkey=Gene;gene=ASFV G ACD 00320;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	19540	19668	.	+	0	ID=cds-QGV56987.1;Parent=gene-ASFV G ACD 00320;Dbxref=NCBI_GP:QGV56987.1;Name=QGV56987.1;gbkey=CDS;gene=ASFV G ACD 00320;product=ASFV G ACD 00320 protein;protein_id=QGV56987.1
+MN715134.1	Genbank	gene	19855	19968	.	+	.	ID=gene-ASFV G ACD 00330;Name=ASFV G ACD 00330;gbkey=Gene;gene=ASFV G ACD 00330;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	19855	19968	.	+	0	ID=cds-QGV56993.1;Parent=gene-ASFV G ACD 00330;Dbxref=NCBI_GP:QGV56993.1;Name=QGV56993.1;gbkey=CDS;gene=ASFV G ACD 00330;product=ASFV G ACD 00330 protein;protein_id=QGV56993.1
+MN715134.1	Genbank	gene	20162	20278	.	-	.	ID=gene-ASFV G ACD 00360;Name=ASFV G ACD 00360;gbkey=Gene;gene=ASFV G ACD 00360;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	20162	20278	.	-	0	ID=cds-QGV56990.1;Parent=gene-ASFV G ACD 00360;Dbxref=NCBI_GP:QGV56990.1;Name=QGV56990.1;gbkey=CDS;gene=ASFV G ACD 00360;product=ASFV G ACD 00360 protein;protein_id=QGV56990.1
+MN715134.1	Genbank	gene	20190	20399	.	+	.	ID=gene-X69R;Name=X69R;gbkey=Gene;gene=X69R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	20190	20399	.	+	0	ID=cds-QGV56967.1;Parent=gene-X69R;Dbxref=NCBI_GP:QGV56967.1;Name=QGV56967.1;gbkey=CDS;gene=X69R;product=X69R protein;protein_id=QGV56967.1
+MN715134.1	Genbank	gene	20697	21503	.	-	.	ID=gene-MGF 300-1L;Name=MGF 300-1L;gbkey=Gene;gene=MGF 300-1L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	20697	21503	.	-	0	ID=cds-QGV56883.1;Parent=gene-MGF 300-1L;Dbxref=NCBI_GP:QGV56883.1;Name=QGV56883.1;gbkey=CDS;gene=MGF 300-1L;product=MGF 300-1L protein;protein_id=QGV56883.1
+MN715134.1	Genbank	gene	22330	22812	.	+	.	ID=gene-MGF 300-2R;Name=MGF 300-2R;gbkey=Gene;gene=MGF 300-2R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	22330	22812	.	+	0	ID=cds-QGV56920.1;Parent=gene-MGF 300-2R;Dbxref=NCBI_GP:QGV56920.1;Name=QGV56920.1;gbkey=CDS;gene=MGF 300-2R;product=MGF 300-2R protein;protein_id=QGV56920.1
+MN715134.1	Genbank	gene	22902	23894	.	-	.	ID=gene-MGF 300-4L;Name=MGF 300-4L;gbkey=Gene;gene=MGF 300-4L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	22902	23894	.	-	0	ID=cds-QGV56865.1;Parent=gene-MGF 300-4L;Dbxref=NCBI_GP:QGV56865.1;Name=QGV56865.1;gbkey=CDS;gene=MGF 300-4L;product=MGF 300-4L protein;protein_id=QGV56865.1
+MN715134.1	Genbank	gene	24008	24967	.	-	.	ID=gene-MGF 360-8L;Name=MGF 360-8L;gbkey=Gene;gene=MGF 360-8L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	24008	24967	.	-	0	ID=cds-QGV56867.1;Parent=gene-MGF 360-8L;Dbxref=NCBI_GP:QGV56867.1;Name=QGV56867.1;gbkey=CDS;gene=MGF 360-8L;product=MGF 360-8L protein;protein_id=QGV56867.1
+MN715134.1	Genbank	gene	25129	26181	.	-	.	ID=gene-MGF 360-9L;Name=MGF 360-9L;gbkey=Gene;gene=MGF 360-9L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	25129	26181	.	-	0	ID=cds-QGV56858.1;Parent=gene-MGF 360-9L;Dbxref=NCBI_GP:QGV56858.1;Name=QGV56858.1;gbkey=CDS;gene=MGF 360-9L;product=MGF 360-9L protein;protein_id=QGV56858.1
+MN715134.1	Genbank	gene	26367	27404	.	-	.	ID=gene-MGF 360-10L;Name=MGF 360-10L;gbkey=Gene;gene=MGF 360-10L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	26367	27404	.	-	0	ID=cds-QGV56860.1;Parent=gene-MGF 360-10L;Dbxref=NCBI_GP:QGV56860.1;Name=QGV56860.1;gbkey=CDS;gene=MGF 360-10L;product=MGF 360-10L protein;protein_id=QGV56860.1
+MN715134.1	Genbank	gene	27432	28493	.	-	.	ID=gene-MGF 360-11L;Name=MGF 360-11L;gbkey=Gene;gene=MGF 360-11L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	27432	28493	.	-	0	ID=cds-QGV56855.1;Parent=gene-MGF 360-11L;Dbxref=NCBI_GP:QGV56855.1;Name=QGV56855.1;gbkey=CDS;gene=MGF 360-11L;product=MGF 360-11L protein;protein_id=QGV56855.1
+MN715134.1	Genbank	gene	28701	30296	.	+	.	ID=gene-MGF 505-1R;Name=MGF 505-1R;gbkey=Gene;gene=MGF 505-1R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	28701	30296	.	+	0	ID=cds-QGV56824.1;Parent=gene-MGF 505-1R;Dbxref=NCBI_GP:QGV56824.1;Name=QGV56824.1;gbkey=CDS;gene=MGF 505-1R;product=MGF 505-1R protein;protein_id=QGV56824.1
+MN715134.1	Genbank	gene	30349	31401	.	-	.	ID=gene-MGF 360-12L;Name=MGF 360-12L;gbkey=Gene;gene=MGF 360-12L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	30349	31401	.	-	0	ID=cds-QGV56859.1;Parent=gene-MGF 360-12L;Dbxref=NCBI_GP:QGV56859.1;Name=QGV56859.1;gbkey=CDS;gene=MGF 360-12L;product=MGF 360-12L protein;protein_id=QGV56859.1
+MN715134.1	Genbank	gene	31562	32623	.	-	.	ID=gene-MGF 360-13L;Name=MGF 360-13L;gbkey=Gene;gene=MGF 360-13L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	31562	32623	.	-	0	ID=cds-QGV56856.1;Parent=gene-MGF 360-13L;Dbxref=NCBI_GP:QGV56856.1;Name=QGV56856.1;gbkey=CDS;gene=MGF 360-13L;product=MGF 360-13L protein;protein_id=QGV56856.1
+MN715134.1	Genbank	gene	32808	33881	.	-	.	ID=gene-MGF 360-14L;Name=MGF 360-14L;gbkey=Gene;gene=MGF 360-14L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	32808	33881	.	-	0	ID=cds-QGV56851.1;Parent=gene-MGF 360-14L;Dbxref=NCBI_GP:QGV56851.1;Name=QGV56851.1;gbkey=CDS;gene=MGF 360-14L;product=MGF 360-14L protein;protein_id=QGV56851.1
+MN715134.1	Genbank	gene	34087	35667	.	+	.	ID=gene-MGF 505-2R;Name=MGF 505-2R;gbkey=Gene;gene=MGF 505-2R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	34087	35667	.	+	0	ID=cds-QGV56828.1;Parent=gene-MGF 505-2R;Dbxref=NCBI_GP:QGV56828.1;Name=QGV56828.1;gbkey=CDS;gene=MGF 505-2R;product=MGF 505-2R protein;protein_id=QGV56828.1
+MN715134.1	Genbank	gene	35754	36596	.	+	.	ID=gene-MGF 505-3R;Name=MGF 505-3R;gbkey=Gene;gene=MGF 505-3R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	35754	36596	.	+	0	ID=cds-QGV56877.1;Parent=gene-MGF 505-3R;Dbxref=NCBI_GP:QGV56877.1;Name=QGV56877.1;gbkey=CDS;gene=MGF 505-3R;product=MGF 505-3R protein;protein_id=QGV56877.1
+MN715134.1	Genbank	gene	36674	36796	.	-	.	ID=gene-ASFV G ACD 00520;Name=ASFV G ACD 00520;gbkey=Gene;gene=ASFV G ACD 00520;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	36674	36796	.	-	0	ID=cds-QGV56988.1;Parent=gene-ASFV G ACD 00520;Dbxref=NCBI_GP:QGV56988.1;Name=QGV56988.1;gbkey=CDS;gene=ASFV G ACD 00520;product=ASFV G ACD 00520 protein;protein_id=QGV56988.1
+MN715134.1	Genbank	gene	36764	38284	.	+	.	ID=gene-MGF 505-4R;Name=MGF 505-4R;gbkey=Gene;gene=MGF 505-4R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	36764	38284	.	+	0	ID=cds-QGV56831.1;Parent=gene-MGF 505-4R;Dbxref=NCBI_GP:QGV56831.1;Name=QGV56831.1;gbkey=CDS;gene=MGF 505-4R;product=MGF 505-4R protein;protein_id=QGV56831.1
+MN715134.1	Genbank	gene	38313	39809	.	+	.	ID=gene-MGF 505-5R;Name=MGF 505-5R;gbkey=Gene;gene=MGF 505-5R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	38313	39809	.	+	0	ID=cds-QGV56833.1;Parent=gene-MGF 505-5R;Dbxref=NCBI_GP:QGV56833.1;Name=QGV56833.1;gbkey=CDS;gene=MGF 505-5R;product=MGF 505-5R protein;protein_id=QGV56833.1
+MN715134.1	Genbank	gene	40010	41587	.	+	.	ID=gene-MGF 505-6R;Name=MGF 505-6R;gbkey=Gene;gene=MGF 505-6R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	40010	41587	.	+	0	ID=cds-QGV56829.1;Parent=gene-MGF 505-6R;Dbxref=NCBI_GP:QGV56829.1;Name=QGV56829.1;gbkey=CDS;gene=MGF 505-6R;product=MGF 505-6R protein;protein_id=QGV56829.1
+MN715134.1	Genbank	gene	41717	43300	.	+	.	ID=gene-MGF 505-7R;Name=MGF 505-7R;gbkey=Gene;gene=MGF 505-7R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	41717	43300	.	+	0	ID=cds-QGV56827.1;Parent=gene-MGF 505-7R;Dbxref=NCBI_GP:QGV56827.1;Name=QGV56827.1;gbkey=CDS;gene=MGF 505-7R;product=MGF 505-7R protein;protein_id=QGV56827.1
+MN715134.1	Genbank	gene	43604	45124	.	+	.	ID=gene-MGF 505-9R;Name=MGF 505-9R;gbkey=Gene;gene=MGF 505-9R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	43604	45124	.	+	0	ID=cds-QGV56832.1;Parent=gene-MGF 505-9R;Dbxref=NCBI_GP:QGV56832.1;Name=QGV56832.1;gbkey=CDS;gene=MGF 505-9R;product=MGF 505-9R protein;protein_id=QGV56832.1
+MN715134.1	Genbank	gene	45536	47164	.	+	.	ID=gene-MGF 505-10R;Name=MGF 505-10R;gbkey=Gene;gene=MGF 505-10R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	45536	47164	.	+	0	ID=cds-QGV56822.1;Parent=gene-MGF 505-10R;Dbxref=NCBI_GP:QGV56822.1;Name=QGV56822.1;gbkey=CDS;gene=MGF 505-10R;product=MGF 505-10R protein;protein_id=QGV56822.1
+MN715134.1	Genbank	gene	47281	47955	.	-	.	ID=gene-A224L;Name=A224L;gbkey=Gene;gene=A224L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	47281	47955	.	-	0	ID=cds-QGV56897.1;Parent=gene-A224L;Dbxref=NCBI_GP:QGV56897.1;Name=QGV56897.1;gbkey=CDS;gene=A224L;product=A224L protein;protein_id=QGV56897.1
+MN715134.1	Genbank	gene	47994	48146	.	-	.	ID=gene-ASFV G ACD 00600;Name=ASFV G ACD 00600;gbkey=Gene;gene=ASFV G ACD 00600;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	47994	48146	.	-	0	ID=cds-QGV56979.1;Parent=gene-ASFV G ACD 00600;Dbxref=NCBI_GP:QGV56979.1;Name=QGV56979.1;gbkey=CDS;gene=ASFV G ACD 00600;product=ASFV G ACD 00600 protein;protein_id=QGV56979.1
+MN715134.1	Genbank	gene	48316	48630	.	+	.	ID=gene-A104R;Name=A104R;gbkey=Gene;gene=A104R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	48316	48630	.	+	0	ID=cds-QGV56949.1;Parent=gene-A104R;Dbxref=NCBI_GP:QGV56949.1;Name=QGV56949.1;gbkey=CDS;gene=A104R;product=A104R protein;protein_id=QGV56949.1
+MN715134.1	Genbank	gene	48627	49337	.	-	.	ID=gene-A240L;Name=A240L;gbkey=Gene;gene=A240L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	48627	49337	.	-	0	ID=cds-QGV56893.1;Parent=gene-A240L;Dbxref=NCBI_GP:QGV56893.1;Name=QGV56893.1;gbkey=CDS;gene=A240L;product=A240L protein;protein_id=QGV56893.1
+MN715134.1	Genbank	gene	49249	49431	.	+	.	ID=gene-A118R;Name=A118R;gbkey=Gene;gene=A118R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	49249	49431	.	+	0	ID=cds-QGV56973.1;Parent=gene-A118R;Dbxref=NCBI_GP:QGV56973.1;Name=QGV56973.1;gbkey=CDS;gene=A118R;product=A118R protein;protein_id=QGV56973.1
+MN715134.1	Genbank	gene	49646	50101	.	+	.	ID=gene-A151R;Name=A151R;gbkey=Gene;gene=A151R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	49646	50101	.	+	0	ID=cds-QGV56923.1;Parent=gene-A151R;Dbxref=NCBI_GP:QGV56923.1;Name=QGV56923.1;gbkey=CDS;gene=A151R;product=A151R protein;protein_id=QGV56923.1
+MN715134.1	Genbank	gene	50340	51209	.	+	.	ID=gene-MGF 360-15R;Name=MGF 360-15R;gbkey=Gene;gene=MGF 360-15R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	50340	51209	.	+	0	ID=cds-QGV56876.1;Parent=gene-MGF 360-15R;Dbxref=NCBI_GP:QGV56876.1;Name=QGV56876.1;gbkey=CDS;gene=MGF 360-15R;product=MGF 360-15R protein;protein_id=QGV56876.1
+MN715134.1	Genbank	CDS	51227	51331	.	+	0	ID=cds-QGV56996.1;Dbxref=NCBI_GP:QGV56996.1;Name=QGV56996.1;gbkey=CDS;product=hypothetical protein;protein_id=QGV56996.1
+MN715134.1	Genbank	gene	51445	52134	.	-	.	ID=gene-A238L;Name=A238L;gbkey=Gene;gene=A238L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	51445	52134	.	-	0	ID=cds-QGV56895.1;Parent=gene-A238L;Dbxref=NCBI_GP:QGV56895.1;Name=QGV56895.1;gbkey=CDS;gene=A238L;product=A238L protein;protein_id=QGV56895.1
+MN715134.1	Genbank	gene	52175	54751	.	-	.	ID=gene-A859L;Name=A859L;gbkey=Gene;gene=A859L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	52175	54751	.	-	0	ID=cds-QGV56817.1;Parent=gene-A859L;Dbxref=NCBI_GP:QGV56817.1;Name=QGV56817.1;gbkey=CDS;gene=A859L;product=A859L protein;protein_id=QGV56817.1
+MN715134.1	Genbank	gene	54753	55292	.	-	.	ID=gene-A179L;Name=A179L;gbkey=Gene;gene=A179L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	54753	55292	.	-	0	ID=cds-QGV56910.1;Parent=gene-A179L;Dbxref=NCBI_GP:QGV56910.1;Name=QGV56910.1;gbkey=CDS;gene=A179L;product=A179L protein;protein_id=QGV56910.1
+MN715134.1	Genbank	gene	55525	55938	.	+	.	ID=gene-A137R;Name=A137R;gbkey=Gene;gene=A137R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	55525	55938	.	+	0	ID=cds-QGV56929.1;Parent=gene-A137R;Dbxref=NCBI_GP:QGV56929.1;Name=QGV56929.1;gbkey=CDS;gene=A137R;product=A137R protein;protein_id=QGV56929.1
+MN715134.1	Genbank	gene	55971	56924	.	-	.	ID=gene-F317L;Name=F317L;gbkey=Gene;gene=F317L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	55971	56924	.	-	0	ID=cds-QGV56869.1;Parent=gene-F317L;Dbxref=NCBI_GP:QGV56869.1;Name=QGV56869.1;gbkey=CDS;gene=F317L;product=F317L protein;protein_id=QGV56869.1
+MN715134.1	Genbank	gene	56950	57954	.	-	.	ID=gene-F334L;Name=F334L;gbkey=Gene;gene=F334L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	56950	57954	.	-	0	ID=cds-QGV56864.1;Parent=gene-F334L;Dbxref=NCBI_GP:QGV56864.1;Name=QGV56864.1;gbkey=CDS;gene=F334L;product=F334L protein;protein_id=QGV56864.1
+MN715134.1	Genbank	gene	57975	60311	.	+	.	ID=gene-F778R;Name=F778R;gbkey=Gene;gene=F778R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	57975	60311	.	+	0	ID=cds-QGV56818.1;Parent=gene-F778R;Dbxref=NCBI_GP:QGV56818.1;Name=QGV56818.1;gbkey=CDS;gene=F778R;product=F778R protein;protein_id=QGV56818.1
+MN715134.1	Genbank	gene	60344	60841	.	+	.	ID=gene-F165R;Name=F165R;gbkey=Gene;gene=F165R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	60344	60841	.	+	0	ID=cds-QGV56917.1;Parent=gene-F165R;Dbxref=NCBI_GP:QGV56917.1;Name=QGV56917.1;gbkey=CDS;gene=F165R;product=F165R protein;protein_id=QGV56917.1
+MN715134.1	Genbank	gene	60828	63974	.	-	.	ID=gene-F1055L;Name=F1055L;gbkey=Gene;gene=F1055L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	60828	63974	.	-	0	ID=cds-QGV56813.1;Parent=gene-F1055L;Dbxref=NCBI_GP:QGV56813.1;Name=QGV56813.1;gbkey=CDS;gene=F1055L;product=F1055L protein;protein_id=QGV56813.1
+MN715134.1	Genbank	gene	64168	64785	.	+	.	ID=gene-K205R;Name=K205R;gbkey=Gene;gene=K205R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	64168	64785	.	+	0	ID=cds-QGV56900.1;Parent=gene-K205R;Dbxref=NCBI_GP:QGV56900.1;Name=QGV56900.1;gbkey=CDS;gene=K205R;product=K205R protein;protein_id=QGV56900.1
+MN715134.1	Genbank	gene	64874	65110	.	+	.	ID=gene-K78R;Name=K78R;gbkey=Gene;gene=K78R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	64874	65110	.	+	0	ID=cds-QGV56962.1;Parent=gene-K78R;Dbxref=NCBI_GP:QGV56962.1;Name=QGV56962.1;gbkey=CDS;gene=K78R;product=K78R protein;protein_id=QGV56962.1
+MN715134.1	Genbank	gene	65107	65697	.	+	.	ID=gene-K196R;Name=K196R;gbkey=Gene;gene=K196R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	65107	65697	.	+	0	ID=cds-QGV56905.1;Parent=gene-K196R;Dbxref=NCBI_GP:QGV56905.1;Name=QGV56905.1;gbkey=CDS;gene=K196R;product=K196R protein;protein_id=QGV56905.1
+MN715134.1	Genbank	gene	65713	66150	.	+	.	ID=gene-K145R;Name=K145R;gbkey=Gene;gene=K145R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	65713	66150	.	+	0	ID=cds-QGV56926.1;Parent=gene-K145R;Dbxref=NCBI_GP:QGV56926.1;Name=QGV56926.1;gbkey=CDS;gene=K145R;product=K145R protein;protein_id=QGV56926.1
+MN715134.1	Genbank	gene	66184	67452	.	+	.	ID=gene-K421R;Name=K421R;gbkey=Gene;gene=K421R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	66184	67452	.	+	0	ID=cds-QGV56839.1;Parent=gene-K421R;Dbxref=NCBI_GP:QGV56839.1;Name=QGV56839.1;gbkey=CDS;gene=K421R;product=K421R protein;protein_id=QGV56839.1
+MN715134.1	Genbank	gene	67493	71221	.	-	.	ID=gene-EP1242L;Name=EP1242L;gbkey=Gene;gene=EP1242L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	67493	71221	.	-	0	ID=cds-QGV56809.1;Parent=gene-EP1242L;Dbxref=NCBI_GP:QGV56809.1;Name=QGV56809.1;gbkey=CDS;gene=EP1242L;product=EP1242L protein;protein_id=QGV56809.1
+MN715134.1	Genbank	gene	71300	71554	.	+	.	ID=gene-EP84R;Name=EP84R;gbkey=Gene;gene=EP84R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	71300	71554	.	+	0	ID=cds-QGV56958.1;Parent=gene-EP84R;Dbxref=NCBI_GP:QGV56958.1;Name=QGV56958.1;gbkey=CDS;gene=EP84R;product=EP84R protein;protein_id=QGV56958.1
+MN715134.1	Genbank	gene	71590	72846	.	+	.	ID=gene-EP424R;Name=EP424R;gbkey=Gene;gene=EP424R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	71590	72846	.	+	0	ID=cds-QGV56841.1;Parent=gene-EP424R;Dbxref=NCBI_GP:QGV56841.1;Name=QGV56841.1;gbkey=CDS;gene=EP424R;product=EP424R protein;protein_id=QGV56841.1
+MN715134.1	Genbank	gene	73341	73799	.	+	.	ID=gene-EP152R;Name=EP152R;gbkey=Gene;gene=EP152R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	73341	73799	.	+	0	ID=cds-QGV56922.1;Parent=gene-EP152R;Dbxref=NCBI_GP:QGV56922.1;Name=QGV56922.1;gbkey=CDS;gene=EP152R;product=EP152R protein;protein_id=QGV56922.1
+MN715134.1	Genbank	gene	73802	74278	.	+	.	ID=gene-EP153R;Name=EP153R;gbkey=Gene;gene=EP153R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	73802	74278	.	+	0	ID=cds-QGV56921.1;Parent=gene-EP153R;Dbxref=NCBI_GP:QGV56921.1;Name=QGV56921.1;gbkey=CDS;gene=EP153R;product=EP153R protein;protein_id=QGV56921.1
+MN715134.1	Genbank	gene	74348	75430	.	+	.	ID=gene-EP402R;Name=EP402R;gbkey=Gene;gene=EP402R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	74348	75430	.	+	0	ID=cds-QGV56849.1;Parent=gene-EP402R;Dbxref=NCBI_GP:QGV56849.1;Name=QGV56849.1;gbkey=CDS;gene=EP402R;product=EP402R protein;protein_id=QGV56849.1
+MN715134.1	Genbank	gene	75500	76609	.	+	.	ID=gene-EP364R;Name=EP364R;gbkey=Gene;gene=EP364R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	75500	76609	.	+	0	ID=cds-QGV56847.1;Parent=gene-EP364R;Dbxref=NCBI_GP:QGV56847.1;Name=QGV56847.1;gbkey=CDS;gene=EP364R;product=EP364R protein;protein_id=QGV56847.1
+MN715134.1	Genbank	gene	76673	80422	.	-	.	ID=gene-M1249L;Name=M1249L;gbkey=Gene;gene=M1249L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	76673	80422	.	-	0	ID=cds-QGV56808.1;Parent=gene-M1249L;Dbxref=NCBI_GP:QGV56808.1;Name=QGV56808.1;gbkey=CDS;gene=M1249L;product=M1249L protein;protein_id=QGV56808.1
+MN715134.1	Genbank	gene	80462	81808	.	+	.	ID=gene-M448R;Name=M448R;gbkey=Gene;gene=M448R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	80462	81808	.	+	0	ID=cds-QGV56836.1;Parent=gene-M448R;Dbxref=NCBI_GP:QGV56836.1;Name=QGV56836.1;gbkey=CDS;gene=M448R;product=M448R protein;protein_id=QGV56836.1
+MN715134.1	Genbank	gene	81895	82284	.	+	.	ID=gene-C129R;Name=C129R;gbkey=Gene;gene=C129R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	81895	82284	.	+	0	ID=cds-QGV56930.1;Parent=gene-C129R;Dbxref=NCBI_GP:QGV56930.1;Name=QGV56930.1;gbkey=CDS;gene=C129R;product=C129R protein;protein_id=QGV56930.1
+MN715134.1	Genbank	gene	82342	82572	.	-	.	ID=gene-C84L;Name=C84L;gbkey=Gene;gene=C84L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	82342	82572	.	-	0	ID=cds-QGV56963.1;Parent=gene-C84L;Dbxref=NCBI_GP:QGV56963.1;Name=QGV56963.1;gbkey=CDS;gene=C84L;product=C84L protein;protein_id=QGV56963.1
+MN715134.1	Genbank	gene	83066	85219	.	+	.	ID=gene-C717R;Name=C717R;gbkey=Gene;gene=C717R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	83066	85219	.	+	0	ID=cds-QGV56819.1;Parent=gene-C717R;Dbxref=NCBI_GP:QGV56819.1;Name=QGV56819.1;gbkey=CDS;gene=C717R;product=C717R protein;protein_id=QGV56819.1
+MN715134.1	Genbank	gene	85206	85523	.	+	.	ID=gene-C122R;Name=C122R;gbkey=Gene;gene=C122R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	85206	85523	.	+	0	ID=cds-QGV56947.1;Parent=gene-C122R;Dbxref=NCBI_GP:QGV56947.1;Name=QGV56947.1;gbkey=CDS;gene=C122R;product=C122R protein;protein_id=QGV56947.1
+MN715134.1	Genbank	gene	85936	86709	.	-	.	ID=gene-C257L;Name=C257L;gbkey=Gene;gene=C257L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	85936	86709	.	-	0	ID=cds-QGV56886.1;Parent=gene-C257L;Dbxref=NCBI_GP:QGV56886.1;Name=QGV56886.1;gbkey=CDS;gene=C257L;product=C257L protein;protein_id=QGV56886.1
+MN715134.1	Genbank	gene	86688	88115	.	-	.	ID=gene-C475L;Name=C475L;gbkey=Gene;gene=C475L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	86688	88115	.	-	0	ID=cds-QGV56834.1;Parent=gene-C475L;Dbxref=NCBI_GP:QGV56834.1;Name=QGV56834.1;gbkey=CDS;gene=C475L;product=C475L protein;protein_id=QGV56834.1
+MN715134.1	Genbank	gene	88168	89115	.	+	.	ID=gene-C315R;Name=C315R;gbkey=Gene;gene=C315R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	88168	89115	.	+	0	ID=cds-QGV56870.1;Parent=gene-C315R;Dbxref=NCBI_GP:QGV56870.1;Name=QGV56870.1;gbkey=CDS;gene=C315R;product=C315R protein;protein_id=QGV56870.1
+MN715134.1	Genbank	gene	89183	89626	.	-	.	ID=gene-C147L;Name=C147L;gbkey=Gene;gene=C147L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	89183	89626	.	-	0	ID=cds-QGV56924.1;Parent=gene-C147L;Dbxref=NCBI_GP:QGV56924.1;Name=QGV56924.1;gbkey=CDS;gene=C147L;product=C147L protein;protein_id=QGV56924.1
+MN715134.1	Genbank	gene	89786	89974	.	-	.	ID=gene-C62L;Name=C62L;gbkey=Gene;gene=C62L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	89786	89974	.	-	0	ID=cds-QGV56971.1;Parent=gene-C62L;Dbxref=NCBI_GP:QGV56971.1;Name=QGV56971.1;gbkey=CDS;gene=C62L;product=C62L protein;protein_id=QGV56971.1
+MN715134.1	Genbank	gene	90056	92944	.	+	.	ID=gene-C962R;Name=C962R;gbkey=Gene;gene=C962R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	90056	92944	.	+	0	ID=cds-QGV56814.1;Parent=gene-C962R;Dbxref=NCBI_GP:QGV56814.1;Name=QGV56814.1;gbkey=CDS;gene=C962R;product=C962R protein;protein_id=QGV56814.1
+MN715134.1	Genbank	gene	92895	93053	.	-	.	ID=gene-ASFV G ACD 01020;Name=ASFV G ACD 01020;gbkey=Gene;gene=ASFV G ACD 01020;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	92895	93053	.	-	0	ID=cds-QGV56977.1;Parent=gene-ASFV G ACD 01020;Dbxref=NCBI_GP:QGV56977.1;Name=QGV56977.1;gbkey=CDS;gene=ASFV G ACD 01020;product=ASFV G ACD 01020 protein;protein_id=QGV56977.1
+MN715134.1	Genbank	gene	93082	95970	.	-	.	ID=gene-B962L;Name=B962L;gbkey=Gene;gene=B962L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	93082	95970	.	-	0	ID=cds-QGV56815.1;Parent=gene-B962L;Dbxref=NCBI_GP:QGV56815.1;Name=QGV56815.1;gbkey=CDS;gene=B962L;product=B962L protein;protein_id=QGV56815.1
+MN715134.1	Genbank	gene	95930	96289	.	-	.	ID=gene-B119L;Name=B119L;gbkey=Gene;gene=B119L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	95930	96289	.	-	0	ID=cds-QGV56941.1;Parent=gene-B119L;Dbxref=NCBI_GP:QGV56941.1;Name=QGV56941.1;gbkey=CDS;gene=B119L;product=B119L protein;protein_id=QGV56941.1
+MN715134.1	Genbank	gene	96270	97226	.	-	.	ID=gene-B318L;Name=B318L;gbkey=Gene;gene=B318L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	96270	97226	.	-	0	ID=cds-QGV56868.1;Parent=gene-B318L;Dbxref=NCBI_GP:QGV56868.1;Name=QGV56868.1;gbkey=CDS;gene=B318L;product=B318L protein;protein_id=QGV56868.1
+MN715134.1	Genbank	gene	97193	98509	.	-	.	ID=gene-B438L;Name=B438L;gbkey=Gene;gene=B438L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	97193	98509	.	-	0	ID=cds-QGV56837.1;Parent=gene-B438L;Dbxref=NCBI_GP:QGV56837.1;Name=QGV56837.1;gbkey=CDS;gene=B438L;product=B438L protein;protein_id=QGV56837.1
+MN715134.1	Genbank	gene	98522	99016	.	-	.	ID=gene-B169L;Name=B169L;gbkey=Gene;gene=B169L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	98522	99016	.	-	0	ID=cds-QGV56919.1;Parent=gene-B169L;Dbxref=NCBI_GP:QGV56919.1;Name=QGV56919.1;gbkey=CDS;gene=B169L;product=B169L protein;protein_id=QGV56919.1
+MN715134.1	Genbank	gene	99033	100460	.	-	.	ID=gene-B475L;Name=B475L;gbkey=Gene;gene=B475L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	99033	100460	.	-	0	ID=cds-QGV56835.1;Parent=gene-B475L;Dbxref=NCBI_GP:QGV56835.1;Name=QGV56835.1;gbkey=CDS;gene=B475L;product=B475L protein;protein_id=QGV56835.1
+MN715134.1	Genbank	gene	100595	101659	.	-	.	ID=gene-B354L;Name=B354L;gbkey=Gene;gene=B354L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	100595	101659	.	-	0	ID=cds-QGV56854.1;Parent=gene-B354L;Dbxref=NCBI_GP:QGV56854.1;Name=QGV56854.1;gbkey=CDS;gene=B354L;product=B354L protein;protein_id=QGV56854.1
+MN715134.1	Genbank	gene	101670	103262	.	-	.	ID=gene-B602L;Name=B602L;gbkey=Gene;gene=B602L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	101670	103262	.	-	0	ID=cds-QGV56825.1;Parent=gene-B602L;Dbxref=NCBI_GP:QGV56825.1;Name=QGV56825.1;gbkey=CDS;gene=B602L;product=B602L protein;protein_id=QGV56825.1
+MN715134.1	Genbank	gene	103318	104475	.	+	.	ID=gene-B385R;Name=B385R;gbkey=Gene;gene=B385R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	103318	104475	.	+	0	ID=cds-QGV56844.1;Parent=gene-B385R;Dbxref=NCBI_GP:QGV56844.1;Name=QGV56844.1;gbkey=CDS;gene=B385R;product=B385R protein;protein_id=QGV56844.1
+MN715134.1	Genbank	gene	104572	106512	.	-	.	ID=gene-B646L;Name=B646L;gbkey=Gene;gene=B646L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	104572	106512	.	-	0	ID=cds-QGV56821.1;Parent=gene-B646L;Dbxref=NCBI_GP:QGV56821.1;Name=QGV56821.1;gbkey=CDS;gene=B646L;product=B646L protein;protein_id=QGV56821.1
+MN715134.1	Genbank	gene	106552	106929	.	+	.	ID=gene-B125R;Name=B125R;gbkey=Gene;gene=B125R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	106552	106929	.	+	0	ID=cds-QGV56933.1;Parent=gene-B125R;Dbxref=NCBI_GP:QGV56933.1;Name=QGV56933.1;gbkey=CDS;gene=B125R;product=B125R protein;protein_id=QGV56933.1
+MN715134.1	Genbank	gene	106902	107249	.	-	.	ID=gene-B117L;Name=B117L;gbkey=Gene;gene=B117L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	106902	107249	.	-	0	ID=cds-QGV56943.1;Parent=gene-B117L;Dbxref=NCBI_GP:QGV56943.1;Name=QGV56943.1;gbkey=CDS;gene=B117L;product=B117L protein;protein_id=QGV56943.1
+MN715134.1	Genbank	gene	107256	108494	.	-	.	ID=gene-B407L;Name=B407L;gbkey=Gene;gene=B407L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	107256	108494	.	-	0	ID=cds-QGV56842.1;Parent=gene-B407L;Dbxref=NCBI_GP:QGV56842.1;Name=QGV56842.1;gbkey=CDS;gene=B407L;product=B407L protein;protein_id=QGV56842.1
+MN715134.1	Genbank	gene	108522	109049	.	-	.	ID=gene-B175L;Name=B175L;gbkey=Gene;gene=B175L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	108522	109049	.	-	0	ID=cds-QGV56913.1;Parent=gene-B175L;Dbxref=NCBI_GP:QGV56913.1;Name=QGV56913.1;gbkey=CDS;gene=B175L;product=B175L protein;protein_id=QGV56913.1
+MN715134.1	Genbank	gene	109096	109887	.	+	.	ID=gene-B263R;Name=B263R;gbkey=Gene;gene=B263R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	109096	109887	.	+	0	ID=cds-QGV56885.1;Parent=gene-B263R;Dbxref=NCBI_GP:QGV56885.1;Name=QGV56885.1;gbkey=CDS;gene=B263R;product=B263R protein;protein_id=QGV56885.1
+MN715134.1	Genbank	gene	109884	110084	.	-	.	ID=gene-B66L;Name=B66L;gbkey=Gene;gene=B66L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	109884	110084	.	-	0	ID=cds-QGV56968.1;Parent=gene-B66L;Dbxref=NCBI_GP:QGV56968.1;Name=QGV56968.1;gbkey=CDS;gene=B66L;product=B66L protein;protein_id=QGV56968.1
+MN715134.1	Genbank	gene	110090	114112	.	-	.	ID=gene-G1340L;Name=G1340L;gbkey=Gene;gene=G1340L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	110090	114112	.	-	0	ID=cds-QGV56807.1;Parent=gene-G1340L;Dbxref=NCBI_GP:QGV56807.1;Name=QGV56807.1;gbkey=CDS;gene=G1340L;product=G1340L protein;protein_id=QGV56807.1
+MN715134.1	Genbank	gene	114153	117773	.	+	.	ID=gene-G1211R;Name=G1211R;gbkey=Gene;gene=G1211R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	114153	117773	.	+	0	ID=cds-QGV56810.1;Parent=gene-G1211R;Dbxref=NCBI_GP:QGV56810.1;Name=QGV56810.1;gbkey=CDS;gene=G1211R;product=G1211R protein;protein_id=QGV56810.1
+MN715134.1	Genbank	gene	117770	118138	.	-	.	ID=gene-CP123L;Name=CP123L;gbkey=Gene;gene=CP123L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	117770	118138	.	-	0	ID=cds-QGV56938.1;Parent=gene-CP123L;Dbxref=NCBI_GP:QGV56938.1;Name=QGV56938.1;gbkey=CDS;gene=CP123L;product=CP123L protein;protein_id=QGV56938.1
+MN715134.1	Genbank	gene	118244	125674	.	-	.	ID=gene-CP2475L;Name=CP2475L;gbkey=Gene;gene=CP2475L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	118244	125674	.	-	0	ID=cds-QGV56805.1;Parent=gene-CP2475L;Dbxref=NCBI_GP:QGV56805.1;Name=QGV56805.1;gbkey=CDS;gene=CP2475L;product=CP2475L protein;protein_id=QGV56805.1
+MN715134.1	Genbank	gene	125778	126362	.	-	.	ID=gene-CP204L;Name=CP204L;gbkey=Gene;gene=CP204L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	125778	126362	.	-	0	ID=cds-QGV56906.1;Parent=gene-CP204L;Dbxref=NCBI_GP:QGV56906.1;Name=QGV56906.1;gbkey=CDS;gene=CP204L;product=CP204L protein;protein_id=QGV56906.1
+MN715134.1	Genbank	gene	126393	127985	.	+	.	ID=gene-CP530R;Name=CP530R;gbkey=Gene;gene=CP530R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	126393	127985	.	+	0	ID=cds-QGV56826.1;Parent=gene-CP530R;Dbxref=NCBI_GP:QGV56826.1;Name=QGV56826.1;gbkey=CDS;gene=CP530R;product=CP530R protein;protein_id=QGV56826.1
+MN715134.1	Genbank	gene	127988	128230	.	+	.	ID=gene-CP80R;Name=CP80R;gbkey=Gene;gene=CP80R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	127988	128230	.	+	0	ID=cds-QGV56960.1;Parent=gene-CP80R;Dbxref=NCBI_GP:QGV56960.1;Name=QGV56960.1;gbkey=CDS;gene=CP80R;product=CP80R protein;protein_id=QGV56960.1
+MN715134.1	Genbank	gene	128272	129195	.	+	.	ID=gene-CP312R;Name=CP312R;gbkey=Gene;gene=CP312R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	128272	129195	.	+	0	ID=cds-QGV56871.1;Parent=gene-CP312R;Dbxref=NCBI_GP:QGV56871.1;Name=QGV56871.1;gbkey=CDS;gene=CP312R;product=CP312R protein;protein_id=QGV56871.1
+MN715134.1	Genbank	gene	129216	129740	.	-	.	ID=gene-O174L;Name=O174L;gbkey=Gene;gene=O174L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	129216	129740	.	-	0	ID=cds-QGV56914.1;Parent=gene-O174L;Dbxref=NCBI_GP:QGV56914.1;Name=QGV56914.1;gbkey=CDS;gene=O174L;product=O174L protein;protein_id=QGV56914.1
+MN715134.1	Genbank	gene	129790	129975	.	+	.	ID=gene-O61R;Name=O61R;gbkey=Gene;gene=O61R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	129790	129975	.	+	0	ID=cds-QGV56972.1;Parent=gene-O61R;Dbxref=NCBI_GP:QGV56972.1;Name=QGV56972.1;gbkey=CDS;gene=O61R;product=O61R protein;protein_id=QGV56972.1
+MN715134.1	Genbank	gene	130055	134437	.	-	.	ID=gene-NP1450L;Name=NP1450L;gbkey=Gene;gene=NP1450L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	130055	134437	.	-	0	ID=cds-QGV56806.1;Parent=gene-NP1450L;Dbxref=NCBI_GP:QGV56806.1;Name=QGV56806.1;gbkey=CDS;gene=NP1450L;product=NP1450L protein;protein_id=QGV56806.1
+MN715134.1	Genbank	gene	134490	135749	.	-	.	ID=gene-NP419L;Name=NP419L;gbkey=Gene;gene=NP419L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	134490	135749	.	-	0	ID=cds-QGV56840.1;Parent=gene-NP419L;Dbxref=NCBI_GP:QGV56840.1;Name=QGV56840.1;gbkey=CDS;gene=NP419L;product=NP419L protein;protein_id=QGV56840.1
+MN715134.1	Genbank	gene	135814	138420	.	+	.	ID=gene-NP868R;Name=NP868R;gbkey=Gene;gene=NP868R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	135814	138420	.	+	0	ID=cds-QGV56816.1;Parent=gene-NP868R;Dbxref=NCBI_GP:QGV56816.1;Name=QGV56816.1;gbkey=CDS;gene=NP868R;product=NP868R protein;protein_id=QGV56816.1
+MN715134.1	Genbank	gene	138477	139229	.	+	.	ID=gene-D205R;Name=D205R;gbkey=Gene;gene=D205R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	138477	139229	.	+	0	ID=cds-QGV56887.1;Parent=gene-D205R;Dbxref=NCBI_GP:QGV56887.1;Name=QGV56887.1;gbkey=CDS;gene=D205R;product=D205R protein;protein_id=QGV56887.1
+MN715134.1	Genbank	gene	139409	139798	.	-	.	ID=gene-D129L;Name=D129L;gbkey=Gene;gene=D129L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	139409	139798	.	-	0	ID=cds-QGV56931.1;Parent=gene-D129L;Dbxref=NCBI_GP:QGV56931.1;Name=QGV56931.1;gbkey=CDS;gene=D129L;product=D129L protein;protein_id=QGV56931.1
+MN715134.1	Genbank	gene	139871	140110	.	-	.	ID=gene-DP79L;Name=DP79L;gbkey=Gene;gene=DP79L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	139871	140110	.	-	0	ID=cds-QGV56961.1;Parent=gene-DP79L;Dbxref=NCBI_GP:QGV56961.1;Name=QGV56961.1;gbkey=CDS;gene=DP79L;product=DP79L protein;protein_id=QGV56961.1
+MN715134.1	Genbank	gene	140179	141198	.	-	.	ID=gene-D339L;Name=D339L;gbkey=Gene;gene=D339L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	140179	141198	.	-	0	ID=cds-QGV56862.1;Parent=gene-D339L;Dbxref=NCBI_GP:QGV56862.1;Name=QGV56862.1;gbkey=CDS;gene=D339L;product=D339L protein;protein_id=QGV56862.1
+MN715134.1	Genbank	gene	141330	144731	.	-	.	ID=gene-D1133L;Name=D1133L;gbkey=Gene;gene=D1133L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	141330	144731	.	-	0	ID=cds-QGV56812.1;Parent=gene-D1133L;Dbxref=NCBI_GP:QGV56812.1;Name=QGV56812.1;gbkey=CDS;gene=D1133L;product=D1133L protein;protein_id=QGV56812.1
+MN715134.1	Genbank	gene	144962	145315	.	-	.	ID=gene-D117L;Name=D117L;gbkey=Gene;gene=D117L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	144962	145315	.	-	0	ID=cds-QGV56942.1;Parent=gene-D117L;Dbxref=NCBI_GP:QGV56942.1;Name=QGV56942.1;gbkey=CDS;gene=D117L;product=D117L protein;protein_id=QGV56942.1
+MN715134.1	Genbank	CDS	145372	145989	.	+	0	ID=cds-QGV56901.1;Dbxref=NCBI_GP:QGV56901.1;Name=QGV56901.1;gbkey=CDS;product=D205R protein;protein_id=QGV56901.1
+MN715134.1	Genbank	gene	146016	147053	.	-	.	ID=gene-D345L;Name=D345L;gbkey=Gene;gene=D345L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	146016	147053	.	-	0	ID=cds-QGV56861.1;Parent=gene-D345L;Dbxref=NCBI_GP:QGV56861.1;Name=QGV56861.1;gbkey=CDS;gene=D345L;product=D345L protein;protein_id=QGV56861.1
+MN715134.1	Genbank	gene	147053	147604	.	-	.	ID=gene-S183L;Name=S183L;gbkey=Gene;gene=S183L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	147053	147604	.	-	0	ID=cds-QGV56909.1;Parent=gene-S183L;Dbxref=NCBI_GP:QGV56909.1;Name=QGV56909.1;gbkey=CDS;gene=S183L;product=S183L protein;protein_id=QGV56909.1
+MN715134.1	Genbank	gene	147665	148486	.	+	.	ID=gene-S273R;Name=S273R;gbkey=Gene;gene=S273R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	147665	148486	.	+	0	ID=cds-QGV56880.1;Parent=gene-S273R;Dbxref=NCBI_GP:QGV56880.1;Name=QGV56880.1;gbkey=CDS;gene=S273R;product=S273R protein;protein_id=QGV56880.1
+MN715134.1	Genbank	gene	148521	152099	.	+	.	ID=gene-P1192R;Name=P1192R;gbkey=Gene;gene=P1192R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	148521	152099	.	+	0	ID=cds-QGV56811.1;Parent=gene-P1192R;Dbxref=NCBI_GP:QGV56811.1;Name=QGV56811.1;gbkey=CDS;gene=P1192R;product=P1192R protein;protein_id=QGV56811.1
+MN715134.1	Genbank	gene	152131	153210	.	-	.	ID=gene-H359L;Name=H359L;gbkey=Gene;gene=H359L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	152131	153210	.	-	0	ID=cds-QGV56850.1;Parent=gene-H359L;Dbxref=NCBI_GP:QGV56850.1;Name=QGV56850.1;gbkey=CDS;gene=H359L;product=H359L protein;protein_id=QGV56850.1
+MN715134.1	Genbank	gene	153245	153760	.	+	.	ID=gene-H171R;Name=H171R;gbkey=Gene;gene=H171R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	153245	153760	.	+	0	ID=cds-QGV56915.1;Parent=gene-H171R;Dbxref=NCBI_GP:QGV56915.1;Name=QGV56915.1;gbkey=CDS;gene=H171R;product=H171R protein;protein_id=QGV56915.1
+MN715134.1	Genbank	gene	153800	154174	.	+	.	ID=gene-H124R;Name=H124R;gbkey=Gene;gene=H124R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	153800	154174	.	+	0	ID=cds-QGV56937.1;Parent=gene-H124R;Dbxref=NCBI_GP:QGV56937.1;Name=QGV56937.1;gbkey=CDS;gene=H124R;product=H124R protein;protein_id=QGV56937.1
+MN715134.1	Genbank	gene	154197	155216	.	+	.	ID=gene-H339R;Name=H339R;gbkey=Gene;gene=H339R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	154197	155216	.	+	0	ID=cds-QGV56863.1;Parent=gene-H339R;Dbxref=NCBI_GP:QGV56863.1;Name=QGV56863.1;gbkey=CDS;gene=H339R;product=H339R protein;protein_id=QGV56863.1
+MN715134.1	Genbank	gene	155228	155554	.	+	.	ID=gene-H108R;Name=H108R;gbkey=Gene;gene=H108R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	155228	155554	.	+	0	ID=cds-QGV56945.1;Parent=gene-H108R;Dbxref=NCBI_GP:QGV56945.1;Name=QGV56945.1;gbkey=CDS;gene=H108R;product=H108R protein;protein_id=QGV56945.1
+MN715134.1	Genbank	gene	155514	156215	.	+	.	ID=gene-H233R;Name=H233R;gbkey=Gene;gene=H233R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	155514	156215	.	+	0	ID=cds-QGV56894.1;Parent=gene-H233R;Dbxref=NCBI_GP:QGV56894.1;Name=QGV56894.1;gbkey=CDS;gene=H233R;product=H233R protein;protein_id=QGV56894.1
+MN715134.1	Genbank	gene	156330	157055	.	+	.	ID=gene-H240R;Name=H240R;gbkey=Gene;gene=H240R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	156330	157055	.	+	0	ID=cds-QGV56890.1;Parent=gene-H240R;Dbxref=NCBI_GP:QGV56890.1;Name=QGV56890.1;gbkey=CDS;gene=H240R;product=H240R protein;protein_id=QGV56890.1
+MN715134.1	Genbank	gene	157048	157944	.	-	.	ID=gene-R298L;Name=R298L;gbkey=Gene;gene=R298L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	157048	157944	.	-	0	ID=cds-QGV56873.1;Parent=gene-R298L;Dbxref=NCBI_GP:QGV56873.1;Name=QGV56873.1;gbkey=CDS;gene=R298L;product=R298L protein;protein_id=QGV56873.1
+MN715134.1	Genbank	gene	157919	160039	.	-	.	ID=gene-Q706L;Name=Q706L;gbkey=Gene;gene=Q706L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	157919	160039	.	-	0	ID=cds-QGV56820.1;Parent=gene-Q706L;Dbxref=NCBI_GP:QGV56820.1;Name=QGV56820.1;gbkey=CDS;gene=Q706L;product=Q706L protein;protein_id=QGV56820.1
+MN715134.1	Genbank	gene	159997	161526	.	-	.	ID=gene-QP509L;Name=QP509L;gbkey=Gene;gene=QP509L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	159997	161526	.	-	0	ID=cds-QGV56830.1;Parent=gene-QP509L;Dbxref=NCBI_GP:QGV56830.1;Name=QGV56830.1;gbkey=CDS;gene=QP509L;product=QP509L protein;protein_id=QGV56830.1
+MN715134.1	Genbank	gene	161516	162667	.	+	.	ID=gene-QP383R;Name=QP383R;gbkey=Gene;gene=QP383R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	161516	162667	.	+	0	ID=cds-QGV56845.1;Parent=gene-QP383R;Dbxref=NCBI_GP:QGV56845.1;Name=QGV56845.1;gbkey=CDS;gene=QP383R;product=QP383R protein;protein_id=QGV56845.1
+MN715134.1	Genbank	gene	162615	163169	.	-	.	ID=gene-E184L;Name=E184L;gbkey=Gene;gene=E184L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	162615	163169	.	-	0	ID=cds-QGV56907.1;Parent=gene-E184L;Dbxref=NCBI_GP:QGV56907.1;Name=QGV56907.1;gbkey=CDS;gene=E184L;product=E184L protein;protein_id=QGV56907.1
+MN715134.1	Genbank	gene	163213	163767	.	-	.	ID=gene-E183L;Name=E183L;gbkey=Gene;gene=E183L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	163213	163767	.	-	0	ID=cds-QGV56908.1;Parent=gene-E183L;Dbxref=NCBI_GP:QGV56908.1;Name=QGV56908.1;gbkey=CDS;gene=E183L;product=E183L protein;protein_id=QGV56908.1
+MN715134.1	Genbank	gene	163798	165069	.	+	.	ID=gene-E423R;Name=E423R;gbkey=Gene;gene=E423R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	163798	165069	.	+	0	ID=cds-QGV56838.1;Parent=gene-E423R;Dbxref=NCBI_GP:QGV56838.1;Name=QGV56838.1;gbkey=CDS;gene=E423R;product=E423R protein;protein_id=QGV56838.1
+MN715134.1	Genbank	gene	165220	166125	.	+	.	ID=gene-E301R;Name=E301R;gbkey=Gene;gene=E301R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	165220	166125	.	+	0	ID=cds-QGV56872.1;Parent=gene-E301R;Dbxref=NCBI_GP:QGV56872.1;Name=QGV56872.1;gbkey=CDS;gene=E301R;product=E301R protein;protein_id=QGV56872.1
+MN715134.1	Genbank	gene	166159	166599	.	-	.	ID=gene-E146L;Name=E146L;gbkey=Gene;gene=E146L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	166159	166599	.	-	0	ID=cds-QGV56925.1;Parent=gene-E146L;Dbxref=NCBI_GP:QGV56925.1;Name=QGV56925.1;gbkey=CDS;gene=E146L;product=E146L protein;protein_id=QGV56925.1
+MN715134.1	Genbank	gene	166836	167435	.	-	.	ID=gene-E199L;Name=E199L;gbkey=Gene;gene=E199L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	166836	167435	.	-	0	ID=cds-QGV56903.1;Parent=gene-E199L;Dbxref=NCBI_GP:QGV56903.1;Name=QGV56903.1;gbkey=CDS;gene=E199L;product=E199L protein;protein_id=QGV56903.1
+MN715134.1	Genbank	gene	167463	167960	.	+	.	ID=gene-E165R;Name=E165R;gbkey=Gene;gene=E165R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	167463	167960	.	+	0	ID=cds-QGV56918.1;Parent=gene-E165R;Dbxref=NCBI_GP:QGV56918.1;Name=QGV56918.1;gbkey=CDS;gene=E165R;product=E165R protein;protein_id=QGV56918.1
+MN715134.1	Genbank	gene	167983	168729	.	+	.	ID=gene-E248R;Name=E248R;gbkey=Gene;gene=E248R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	167983	168729	.	+	0	ID=cds-QGV56888.1;Parent=gene-E248R;Dbxref=NCBI_GP:QGV56888.1;Name=QGV56888.1;gbkey=CDS;gene=E248R;product=E248R protein;protein_id=QGV56888.1
+MN715134.1	Genbank	gene	168771	169139	.	+	.	ID=gene-E120R;Name=E120R;gbkey=Gene;gene=E120R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	168771	169139	.	+	0	ID=cds-QGV56939.1;Parent=gene-E120R;Dbxref=NCBI_GP:QGV56939.1;Name=QGV56939.1;gbkey=CDS;gene=E120R;product=E120R protein;protein_id=QGV56939.1
+MN715134.1	Genbank	gene	169169	170059	.	+	.	ID=gene-EP296R;Name=EP296R;gbkey=Gene;gene=EP296R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	169169	170059	.	+	0	ID=cds-QGV56874.1;Parent=gene-EP296R;Dbxref=NCBI_GP:QGV56874.1;Name=QGV56874.1;gbkey=CDS;gene=EP296R;product=EP296R protein;protein_id=QGV56874.1
+MN715134.1	Genbank	gene	170062	170397	.	+	.	ID=gene-E111R;Name=E111R;gbkey=Gene;gene=E111R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	170062	170397	.	+	0	ID=cds-QGV56944.1;Parent=gene-E111R;Dbxref=NCBI_GP:QGV56944.1;Name=QGV56944.1;gbkey=CDS;gene=E111R;product=E111R protein;protein_id=QGV56944.1
+MN715134.1	Genbank	gene	170480	170632	.	-	.	ID=gene-E66L;Name=E66L;gbkey=Gene;gene=E66L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	170480	170632	.	-	0	ID=cds-QGV56980.1;Parent=gene-E66L;Dbxref=NCBI_GP:QGV56980.1;Name=QGV56980.1;gbkey=CDS;gene=E66L;product=E66L protein;protein_id=QGV56980.1
+MN715134.1	Genbank	gene	170636	171439	.	-	.	ID=gene-I267L;Name=I267L;gbkey=Gene;gene=I267L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	170636	171439	.	-	0	ID=cds-QGV56884.1;Parent=gene-I267L;Dbxref=NCBI_GP:QGV56884.1;Name=QGV56884.1;gbkey=CDS;gene=I267L;product=I267L protein;protein_id=QGV56884.1
+MN715134.1	Genbank	gene	171591	172271	.	+	.	ID=gene-I226R;Name=I226R;gbkey=Gene;gene=I226R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	171591	172271	.	+	0	ID=cds-QGV56896.1;Parent=gene-I226R;Dbxref=NCBI_GP:QGV56896.1;Name=QGV56896.1;gbkey=CDS;gene=I226R;product=I226R protein;protein_id=QGV56896.1
+MN715134.1	Genbank	gene	172268	172999	.	-	.	ID=gene-I243L;Name=I243L;gbkey=Gene;gene=I243L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	172268	172999	.	-	0	ID=cds-QGV56889.1;Parent=gene-I243L;Dbxref=NCBI_GP:QGV56889.1;Name=QGV56889.1;gbkey=CDS;gene=I243L;product=I243L protein;protein_id=QGV56889.1
+MN715134.1	Genbank	gene	173083	173301	.	+	.	ID=gene-I73R;Name=I73R;gbkey=Gene;gene=I73R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	173083	173301	.	+	0	ID=cds-QGV56965.1;Parent=gene-I73R;Dbxref=NCBI_GP:QGV56965.1;Name=QGV56965.1;gbkey=CDS;gene=I73R;product=I73R protein;protein_id=QGV56965.1
+MN715134.1	Genbank	gene	173521	174510	.	-	.	ID=gene-I329L;Name=I329L;gbkey=Gene;gene=I329L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	173521	174510	.	-	0	ID=cds-QGV56866.1;Parent=gene-I329L;Dbxref=NCBI_GP:QGV56866.1;Name=QGV56866.1;gbkey=CDS;gene=I329L;product=I329L protein;protein_id=QGV56866.1
+MN715134.1	Genbank	gene	174799	175437	.	-	.	ID=gene-I215L;Name=I215L;gbkey=Gene;gene=I215L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	174799	175437	.	-	0	ID=cds-QGV56898.1;Parent=gene-I215L;Dbxref=NCBI_GP:QGV56898.1;Name=QGV56898.1;gbkey=CDS;gene=I215L;product=I215L protein;protein_id=QGV56898.1
+MN715134.1	Genbank	gene	175478	176011	.	-	.	ID=gene-I177L;Name=I177L;gbkey=Gene;gene=I177L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	175478	176011	.	-	0	ID=cds-QGV56912.1;Parent=gene-I177L;Dbxref=NCBI_GP:QGV56912.1;Name=QGV56912.1;gbkey=CDS;gene=I177L;product=I177L protein;protein_id=QGV56912.1
+MN715134.1	Genbank	sequence_feature	175927	176011	.	-	.	ID=id-MN715134.1:175927..176011;Note=ASFV G ACD 01760 no indication;gbkey=misc_feature
+MN715134.1	Genbank	gene	176004	176612	.	-	.	ID=gene-I196L;Name=I196L;gbkey=Gene;gene=I196L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	176004	176612	.	-	0	ID=cds-QGV56902.1;Parent=gene-I196L;Dbxref=NCBI_GP:QGV56902.1;Name=QGV56902.1;gbkey=CDS;gene=I196L;product=I196L protein;protein_id=QGV56902.1
+MN715134.1	Genbank	gene	176706	177422	.	-	.	ID=gene-DP238L;Name=DP238L;gbkey=Gene;gene=DP238L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	176706	177422	.	-	0	ID=cds-QGV56891.1;Parent=gene-DP238L;Dbxref=NCBI_GP:QGV56891.1;Name=QGV56891.1;gbkey=CDS;gene=DP238L;product=DP238L protein;protein_id=QGV56891.1
+MN715134.1	Genbank	gene	177599	178657	.	+	.	ID=gene-MGF 360-16R;Name=MGF 360-16R;gbkey=Gene;gene=MGF 360-16R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	177599	178657	.	+	0	ID=cds-QGV56857.1;Parent=gene-MGF 360-16R;Dbxref=NCBI_GP:QGV56857.1;Name=QGV56857.1;gbkey=CDS;gene=MGF 360-16R;product=MGF 360-16R protein;protein_id=QGV56857.1
+MN715134.1	Genbank	sequence_feature	178511	178657	.	+	.	ID=id-MN715134.1:178511..178657;Note=DP63R no indication vs FR682468;gbkey=misc_feature
+MN715134.1	Genbank	gene	178737	180365	.	-	.	ID=gene-MGF 505-11L;Name=MGF 505-11L;gbkey=Gene;gene=MGF 505-11L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	178737	180365	.	-	0	ID=cds-QGV56823.1;Parent=gene-MGF 505-11L;Dbxref=NCBI_GP:QGV56823.1;Name=QGV56823.1;gbkey=CDS;gene=MGF 505-11L;product=MGF 505-11L protein;protein_id=QGV56823.1
+MN715134.1	Genbank	gene	180484	180909	.	-	.	ID=gene-MGF 100-1L;Name=MGF 100-1L;gbkey=Gene;gene=MGF 100-1L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	180484	180909	.	-	0	ID=cds-QGV56927.1;Parent=gene-MGF 100-1L;Dbxref=NCBI_GP:QGV56927.1;Name=QGV56927.1;gbkey=CDS;gene=MGF 100-1L;product=MGF 100-1L protein;protein_id=QGV56927.1
+MN715134.1	Genbank	gene	181274	181582	.	-	.	ID=gene-MGF 100-3L;Name=MGF 100-3L;gbkey=Gene;gene=MGF 100-3L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	181274	181582	.	-	0	ID=cds-QGV56952.1;Parent=gene-MGF 100-3L;Dbxref=NCBI_GP:QGV56952.1;Name=QGV56952.1;gbkey=CDS;gene=MGF 100-3L;product=MGF 100-3L protein;protein_id=QGV56952.1
+MN715134.1	Genbank	gene	181681	181989	.	-	.	ID=gene-I7L;Name=I7L;gbkey=Gene;gene=I7L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	181681	181989	.	-	0	ID=cds-QGV56951.1;Parent=gene-I7L;Dbxref=NCBI_GP:QGV56951.1;Name=QGV56951.1;gbkey=CDS;gene=I7L;product=I7L protein;protein_id=QGV56951.1
+MN715134.1	Genbank	CDS	182049	182156	.	-	0	ID=cds-QGV56995.1;Dbxref=NCBI_GP:QGV56995.1;Name=QGV56995.1;gbkey=CDS;product=hypothetical protein;protein_id=QGV56995.1
+MN715134.1	Genbank	gene	182203	182514	.	-	.	ID=gene-I8L;Name=I8L;gbkey=Gene;gene=I8L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	182203	182514	.	-	0	ID=cds-QGV56950.1;Parent=gene-I8L;Dbxref=NCBI_GP:QGV56950.1;Name=QGV56950.1;gbkey=CDS;gene=I8L;product=I8L protein;protein_id=QGV56950.1
+MN715134.1	Genbank	gene	182609	182746	.	+	.	ID=gene-ASFV G ACD 01870;Name=ASFV G ACD 01870;gbkey=Gene;gene=ASFV G ACD 01870;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	182609	182746	.	+	0	ID=cds-QGV56984.1;Parent=gene-ASFV G ACD 01870;Dbxref=NCBI_GP:QGV56984.1;Name=QGV56984.1;gbkey=CDS;gene=ASFV G ACD 01870;product=ASFV G ACD 01870 protein;protein_id=QGV56984.1
+MN715134.1	Genbank	gene	182709	182999	.	+	.	ID=gene-I9R;Name=I9R;gbkey=Gene;gene=I9R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	182709	182999	.	+	0	ID=cds-QGV56953.1;Parent=gene-I9R;Dbxref=NCBI_GP:QGV56953.1;Name=QGV56953.1;gbkey=CDS;gene=I9R;product=I9R protein;protein_id=QGV56953.1
+MN715134.1	Genbank	gene	183075	183587	.	-	.	ID=gene-I10L;Name=I10L;gbkey=Gene;gene=I10L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	183075	183587	.	-	0	ID=cds-QGV56916.1;Parent=gene-I10L;Dbxref=NCBI_GP:QGV56916.1;Name=QGV56916.1;gbkey=CDS;gene=I10L;product=I10L protein;protein_id=QGV56916.1
+MN715134.1	Genbank	gene	183826	184107	.	-	.	ID=gene-L11L;Name=L11L;gbkey=Gene;gene=L11L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	183826	184107	.	-	0	ID=cds-QGV56956.1;Parent=gene-L11L;Dbxref=NCBI_GP:QGV56956.1;Name=QGV56956.1;gbkey=CDS;gene=L11L;product=L11L protein;protein_id=QGV56956.1
+MN715134.1	Genbank	gene	184337	185050	.	+	.	ID=gene-MGF 360-18R;Name=MGF 360-18R;gbkey=Gene;gene=MGF 360-18R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	184337	185050	.	+	0	ID=cds-QGV56892.1;Parent=gene-MGF 360-18R;Dbxref=NCBI_GP:QGV56892.1;Name=QGV56892.1;gbkey=CDS;gene=MGF 360-18R;product=MGF 360-18R protein;protein_id=QGV56892.1
+MN715134.1	Genbank	gene	185033	185245	.	-	.	ID=gene-DP71L;Name=DP71L;gbkey=Gene;gene=DP71L;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	185033	185245	.	-	0	ID=cds-QGV56966.1;Parent=gene-DP71L;Dbxref=NCBI_GP:QGV56966.1;Name=QGV56966.1;gbkey=CDS;gene=DP71L;product=DP71L protein;protein_id=QGV56966.1
+MN715134.1	Genbank	gene	185344	185634	.	+	.	ID=gene-DP96R;Name=DP96R;gbkey=Gene;gene=DP96R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	185344	185634	.	+	0	ID=cds-QGV56954.1;Parent=gene-DP96R;Dbxref=NCBI_GP:QGV56954.1;Name=QGV56954.1;gbkey=CDS;gene=DP96R;product=DP96R protein;protein_id=QGV56954.1
+MN715134.1	Genbank	gene	185934	186092	.	-	.	ID=gene-ASFV G ACD 01940;Name=ASFV G ACD 01940;gbkey=Gene;gene=ASFV G ACD 01940;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	185934	186092	.	-	0	ID=cds-QGV56978.1;Parent=gene-ASFV G ACD 01940;Dbxref=NCBI_GP:QGV56978.1;Name=QGV56978.1;gbkey=CDS;gene=ASFV G ACD 01940;product=ASFV G ACD 01940 protein;protein_id=QGV56978.1
+MN715134.1	Genbank	gene	186245	187054	.	+	.	ID=gene-MGF 360-19Ra;Name=MGF 360-19Ra;gbkey=Gene;gene=MGF 360-19Ra;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	186245	187054	.	+	0	ID=cds-QGV56882.1;Parent=gene-MGF 360-19Ra;Dbxref=NCBI_GP:QGV56882.1;Name=QGV56882.1;gbkey=CDS;gene=MGF 360-19Ra;product=MGF 360-19Ra protein;protein_id=QGV56882.1
+MN715134.1	Genbank	gene	187068	187337	.	+	.	ID=gene-MGF 360-19Rb;Name=MGF 360-19Rb;gbkey=Gene;gene=MGF 360-19Rb;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	187068	187337	.	+	0	ID=cds-QGV56957.1;Parent=gene-MGF 360-19Rb;Dbxref=NCBI_GP:QGV56957.1;Name=QGV56957.1;gbkey=CDS;gene=MGF 360-19Rb;product=MGF 360-19Rb protein;protein_id=QGV56957.1
+MN715134.1	Genbank	gene	187406	187537	.	-	.	ID=gene-ASFV G ACD 01960;Name=ASFV G ACD 01960;gbkey=Gene;gene=ASFV G ACD 01960;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	187406	187537	.	-	0	ID=cds-QGV56985.1;Parent=gene-ASFV G ACD 01960;Dbxref=NCBI_GP:QGV56985.1;Name=QGV56985.1;gbkey=CDS;gene=ASFV G ACD 01960;product=ASFV G ACD 01960 protein;protein_id=QGV56985.1
+MN715134.1	Genbank	gene	187983	189053	.	+	.	ID=gene-MGF 360-21R;Name=MGF 360-21R;gbkey=Gene;gene=MGF 360-21R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	187983	189053	.	+	0	ID=cds-QGV56853.1;Parent=gene-MGF 360-21R;Dbxref=NCBI_GP:QGV56853.1;Name=QGV56853.1;gbkey=CDS;gene=MGF 360-21R;product=MGF 360-21R protein;protein_id=QGV56853.1
+MN715134.1	Genbank	gene	189042	189236	.	-	.	ID=gene-ASFV G ACD 01980;Name=ASFV G ACD 01980;gbkey=Gene;gene=ASFV G ACD 01980;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	189042	189236	.	-	0	ID=cds-QGV56969.1;Parent=gene-ASFV G ACD 01980;Dbxref=NCBI_GP:QGV56969.1;Name=QGV56969.1;gbkey=CDS;gene=ASFV G ACD 01980;product=ASFV G ACD 01980 protein;protein_id=QGV56969.1
+MN715134.1	Genbank	gene	189743	189889	.	-	.	ID=gene-ASFV G ACD 01990-2;Name=ASFV G ACD 01990;gbkey=Gene;gene=ASFV G ACD 01990;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	189743	189889	.	-	0	ID=cds-QGV56982.1;Parent=gene-ASFV G ACD 01990-2;Dbxref=NCBI_GP:QGV56982.1;Name=QGV56982.1;gbkey=CDS;gene=ASFV G ACD 01990;product=ASFV G ACD 01990 protein;protein_id=QGV56982.1
+MN715134.1	Genbank	gene	190010	190189	.	+	.	ID=gene-DP60R-2;Name=DP60R;gbkey=Gene;gene=DP60R;gene_biotype=protein_coding
+MN715134.1	Genbank	CDS	190010	190189	.	+	0	ID=cds-QGV56974.1;Parent=gene-DP60R-2;Dbxref=NCBI_GP:QGV56974.1;Name=QGV56974.1;gbkey=CDS;gene=DP60R;product=DP60R protein;protein_id=QGV56974.1
+
